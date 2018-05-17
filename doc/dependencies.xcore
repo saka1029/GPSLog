@@ -1,0 +1,20 @@
+@startuml
+
+package saka1029.kml {}
+
+package org.w3c.dom {}
+
+package org.jfree {
+    package chart {}
+    package data {}
+}
+
+package com.drew {
+    package imagging{}
+    package metadata{}
+}
+
+saka1029.kml ..> org.w3c.dom
+saka1029.kml ..> org.jfree
+saka1029.kml ..> com.drew
+@enduml
