@@ -1,0 +1,63 @@
+@startuml
+
+class GPSLocation {
+    - latitude : double
+    - longtitude : double
+}
+
+class TitleMap {
+    - file : File
+    - titles : TreeMap<String, String>
+}
+
+class Image {
+    writeTo(out:File) : void
+}
+Image ..|> Comparable
+
+class ImageMap {
+}
+ImageMap --> "*" Image : map : TreeMap<Date, Image>
+
+class PlaceMark {
+    node : Node
+    latitude : double
+    longtitude : double
+}
+PlaceMark --> "*" Image : images
+
+abstract class Kml {
+    file : File
+    document : Document
+    name : String
+    writeTo(dest : File, images : ImageMap , String imageUrl, useGoogleMapsAPI : boolean) : void
+}
+
+class Kml21
+note top of Kml21
+    HOLUX M-241が
+    生成するkmlファイル
+end note
+Kml21 --> "*" PlaceMark
+Kml21 --|> Kml
+
+class Kml22
+note top of Kml22
+    Google Mapのマイプ
+    レイスで作成したkml
+end note
+Kml22 --|> Kml
+
+class Frame {
+    writeTo(out : File, baseUrl : String, enc : String)
+}
+
+class Main {
+    inputDir : File : = new File("L:/home/records")
+    outputDir : String = new File("L:/home/web")
+    baseUrl : String = "http://saka1029.web.fc2.com/"
+    usetGoogoleMapsAPI : boolean = false
+    run() : void
+}
+
+@enduml

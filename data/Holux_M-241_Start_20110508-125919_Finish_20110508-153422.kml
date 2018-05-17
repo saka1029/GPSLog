@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<Style id="normalState_TLP_Start">
+<IconStyle>
+<scale>1.0</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal4/icon15.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+</Style>
+<Style id="highlightState_TLP_Start">
+<IconStyle>
+<scale>1.1</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal4/icon7.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.1</scale>
+<color>ff0000ff</color>
+</LabelStyle>
+</Style>
+<StyleMap id="styleMap_TLP_Start">
+<Pair>
+<key>normal</key>
+<styleUrl>#normalState_TLP_Start</styleUrl>
+</Pair>
+<Pair>
+<key>highlight</key>
+<styleUrl>#highlightState_TLP_Start</styleUrl>
+</Pair>
+</StyleMap>
+<Style id="normalState_TLP_Finish">
+<IconStyle>
+<scale>1.0</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal4/icon15.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+</Style>
+<Style id="highlightState_TLP_Finish">
+<IconStyle>
+<scale>1.1</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal4/icon7.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.1</scale>
+<color>ff0000ff</color>
+</LabelStyle>
+</Style>
+<StyleMap id="styleMap_TLP_Finish">
+<Pair>
+<key>normal</key>
+<styleUrl>#normalState_TLP_Finish</styleUrl>
+</Pair>
+<Pair>
+<key>highlight</key>
+<styleUrl>#highlightState_TLP_Finish</styleUrl>
+</Pair>
+</StyleMap>
+<Style id="normalState_TLP_Normal">
+<IconStyle>
+<scale>1.0</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal4/icon31.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+</Style>
+<Style id="highlightState_TLP_Normal">
+<IconStyle>
+<scale>1.1</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal4/icon23.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.1</scale>
+<color>ff0000ff</color>
+</LabelStyle>
+</Style>
+<StyleMap id="styleMap_TLP_Normal">
+<Pair>
+<key>normal</key>
+<styleUrl>#normalState_TLP_Normal</styleUrl>
+</Pair>
+<Pair>
+<key>highlight</key>
+<styleUrl>#highlightState_TLP_Normal</styleUrl>
+</Pair>
+</StyleMap>
+<Style id="normalState_TLP_Photo">
+<IconStyle>
+<scale>1.0</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal4/icon46.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+</Style>
+<Style id="highlightState_TLP_Photo">
+<IconStyle>
+<scale>1.1</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal4/icon38.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle>
+<scale>1.1</scale>
+<color>ff0000ff</color>
+</LabelStyle>
+</Style>
+<StyleMap id="styleMap_TLP_Photo">
+<Pair>
+<key>normal</key>
+<styleUrl>#normalState_TLP_Photo</styleUrl>
+</Pair>
+<Pair>
+<key>highlight</key>
+<styleUrl>#highlightState_TLP_Photo</styleUrl>
+</Pair>
+</StyleMap>
+<Style id="roadStyle">
+<LineStyle>
+<color>ffffff00</color>
+<width>6</width>
+</LineStyle>
+</Style>
+<Open>1</Open>
+<description>Route</description>
+<name>2011/05/08 羅漢寺川</name>
+<Placemark>
+<name>Route</name>
+<styleUrl>#roadStyle</styleUrl>
+<MultiGeometry>
+<LineString>
+<coordinates>
+139.6617279,35.6700401,48.95 139.6616974,35.6695824,46.34 139.6615906,35.6691360,51.71 139.6614380,35.6686592,52.12 139.6613770,35.6681786,53.80 139.6612854,35.6677094,54.85 139.6611633,35.6672325,55.61 139.6610718,35.6667404,56.38 139.6609955,35.6662712,57.20 139.6609497,35.6658020,56.82 139.6608734,35.6653214,57.36 139.6608124,35.6648483,59.77 139.6607056,35.6643753,62.25 139.6606140,35.6639214,63.13 139.6605377,35.6634598,62.64 139.6605072,35.6629982,62.69 139.6604156,35.6625443,64.74 139.6603394,35.6620712,65.16 139.6602631,35.6616096,64.27 139.6601868,35.6611404,64.71 139.6601868,35.6606560,62.18 139.6601410,35.6601753,61.27 139.6600800,35.6597137,60.93 139.6600494,35.6592178,59.89 139.6600037,35.6587639,59.68 139.6599426,35.6582832,59.85 139.6599426,35.6577797,59.81 139.6599426,35.6573296,59.48 139.6599731,35.6568604,58.75 139.6600037,35.6563683,57.85 139.6600037,35.6559105,56.47 139.6600647,35.6554375,48.88 139.6601715,35.6549721,39.70 139.6602631,35.6544952,37.90 139.6602936,35.6540375,35.63 139.6603241,35.6535683,34.77 139.6604004,35.6531181,35.41 139.6604919,35.6526260,38.00 139.6605072,35.6521568,42.00 139.6605072,35.6516991,44.87 139.6604614,35.6512489,48.19 139.6605682,35.6507988,52.70 139.6605988,35.6503181,57.00 139.6605835,35.6498489,58.40 139.6606293,35.6493759,57.59 139.6606598,35.6489143,55.92 139.6606750,35.6484184,54.38 139.6606445,35.6479111,53.28 139.6606903,35.6474457,53.92 139.6607056,35.6469574,54.37 139.6607361,35.6464729,54.54 139.6608429,35.6460228,54.79 139.6608429,35.6455650,55.19 139.6608734,35.6451111,55.73 139.6608887,35.6446266,58.52 139.6607971,35.6441574,61.79 139.6609039,35.6437149,65.92 139.6610260,35.6432571,69.89 139.6608887,35.6427917,73.06 139.6609650,35.6423111,72.11 139.6611176,35.6418457,71.37 139.6611786,35.6413765,70.52 139.6612244,35.6409149,69.71 139.6613617,35.6404686,69.05 139.6614838,35.6400223,68.03 139.6616058,35.6395760,67.67 139.6618042,35.6391449,67.76 139.6621399,35.6387520,66.86 139.6623535,35.6383018,67.05 139.6625977,35.6378708,67.40 139.6627655,35.6374207,68.46 139.6630249,35.6370010,68.92 139.6633606,35.6366386,68.21 139.6637878,35.6363525,68.23 139.6641693,35.6359978,67.50 139.6645660,35.6356850,62.92 139.6650543,35.6354141,63.58 139.6653748,35.6350098,61.62 139.6658325,35.6347008,57.90 139.6662598,35.6344032,56.30 139.6666565,35.6340599,54.50 139.6670685,35.6337090,52.79 139.6675720,35.6333771,51.64 139.6680450,35.6330757,49.88 139.6684875,35.6327934,46.51 139.6689453,35.6324883,43.71 139.6694031,35.6322212,42.83 139.6698761,35.6319580,42.05 139.6703186,35.6316490,40.12 139.6707611,35.6313438,40.19 139.6711426,35.6309891,39.39 139.6714783,35.6306267,39.74 139.6718445,35.6302795,39.42 139.6723328,35.6300430,39.03 139.6728058,35.6297913,37.88 139.6733704,35.6296806,35.41 139.6739197,35.6295815,32.60 139.6744690,35.6294861,30.65 139.6750183,35.6293869,31.63 139.6755676,35.6293068,31.98 139.6757355,35.6288071,34.54 139.6760101,35.6283951,32.76 139.6761169,35.6279373,28.98 139.6766052,35.6276550,26.79 139.6771545,35.6277504,27.29 139.6776581,35.6279602,26.76 139.6781921,35.6280899,25.80 139.6787567,35.6282654,26.16 139.6792755,35.6284866,25.25 139.6797943,35.6286507,23.62 139.6803284,35.6287918,23.87 139.6807861,35.6290474,26.81 139.6812897,35.6292801,32.88 139.6817322,35.6295662,37.08 139.6822205,35.6298294,36.81 139.6826935,35.6300735,35.03 139.6832275,35.6302986,33.33 139.6838226,35.6302452,32.27 139.6844025,35.6301918,30.79 139.6849518,35.6301231,27.78 139.6854858,35.6299667,23.17 139.6860352,35.6299973,15.68 139.6865997,35.6299057,17.02 139.6871796,35.6298294,20.27 139.6877441,35.6297874,19.72 139.6882782,35.6296806,20.78 139.6887970,35.6294632,23.36 139.6892090,35.6291389,22.94 139.6896210,35.6287918,20.77 139.6900940,35.6285057,21.46 139.6906128,35.6282959,20.19 139.6911621,35.6282234,15.45 139.6916351,35.6279831,7.18 139.6921539,35.6279488,-9.60 139.6927185,35.6278725,-17.58 139.6932831,35.6278038,-11.34 139.6934052,35.6273537,-7.46 139.6934052,35.6268806,-2.72 139.6935272,35.6264229,-2.59 139.6936340,35.6259804,-4.00 139.6935730,35.6255150,-5.01 139.6936035,35.6250572,-4.76 139.6936798,35.6246109,-3.90 139.6942291,35.6245308,-0.16 139.6947937,35.6245804,6.39 139.6953278,35.6247330,6.55 139.6958771,35.6246719,0.31 139.6963959,35.6245232,14.68 139.6969757,35.6244965,12.13 139.6975250,35.6245117,3.83 139.6980743,35.6244278,7.47 139.6986237,35.6242332,7.40 139.6991577,35.6240768,12.30 139.6996765,35.6239128,20.41 139.7002258,35.6237831,23.15 139.7007904,35.6236877,23.30 139.7012939,35.6234665,22.82 139.7017670,35.6232147,16.78 139.7021942,35.6229210,13.77 139.7025909,35.6225929,5.34 139.7030640,35.6223869,-7.06 139.7025757,35.6226311,-0.67 139.7021332,35.6229401,7.46 139.7016602,35.6231842,19.87 139.7012634,35.6235313,26.46 139.7007141,35.6236420,29.90 139.7001648,35.6237144,33.90 139.6996307,35.6239204,40.69 139.6990814,35.6240959,43.54 139.6985626,35.6242332,46.44 139.6980286,35.6243629,34.51 139.6975098,35.6244926,21.30 139.6969604,35.6245804,17.19 139.6965790,35.6249084,15.91 139.6960449,35.6250648,15.91 139.6965485,35.6252937,18.53 139.6971130,35.6254539,18.13 139.6976318,35.6255951,23.01 139.6981659,35.6257477,26.16 139.6986847,35.6259270,25.01 139.6992188,35.6257629,29.82 139.6997528,35.6258774,28.08 139.7002716,35.6260605,31.14 139.7007904,35.6262283,24.80 139.7013550,35.6260681,21.62 139.7018585,35.6258698,25.79 139.7023773,35.6257133,33.01 139.7029114,35.6258087,35.36 139.7034454,35.6259689,34.50 139.7039642,35.6261253,28.38 139.7044525,35.6263237,16.76 139.7048798,35.6265984,7.25 139.7053680,35.6268349,8.54 139.7059021,35.6269913,1.20 139.7064819,35.6269112,5.10 139.7070618,35.6269455,16.26 139.7075500,35.6271553,10.92 139.7078094,35.6275558,9.31 139.7083588,35.6275368,12.48 139.7088623,35.6277504,10.53 139.7093201,35.6280136,5.20 139.7095490,35.6284561,3.00 139.7098083,35.6290131,-12.58 139.7100983,35.6294174,-18.24 139.7104950,35.6297455,-9.60 139.7106781,35.6301804,-6.87 139.7109222,35.6306114,-13.81 139.7110138,35.6310120,-36.85 139.7115173,35.6312256,-39.21 139.7117310,35.6316452,-40.23 139.7116699,35.6321106,-41.74 139.7119446,35.6314201,-42.91 139.7120361,35.6319275,-43.27 139.7123871,35.6315994,-19.04 139.7127991,35.6313515,1.93 139.7132111,35.6310234,2.57 139.7135620,35.6306534,0.77 139.7138214,35.6302490,0.20 139.7136688,35.6306686,14.18 139.7138977,35.6310768,9.54 139.7134399,35.6313248,2.38 139.7132874,35.6317635,-8.40 139.7130280,35.6321945,-17.13 139.7125702,35.6329460,-21.12 139.7106018,35.6335754,51.08 139.7102814,35.6339455,46.88 139.7099609,35.6343307,46.78 139.7095337,35.6345901,31.20 139.7090454,35.6348343,22.28 139.7085876,35.6351509,19.35 139.7081299,35.6354218,16.07 139.7079163,35.6360054,17.11 139.7077637,35.6364403,15.25 139.7073669,35.6367493,17.44 139.7068176,35.6369171,15.24 139.7062225,35.6370201,14.79 139.7061615,35.6374779,14.74 139.7059326,35.6379051,15.07 139.7054138,35.6380844,14.86 139.7048645,35.6380844,15.07 139.7042999,35.6380768,17.25 139.7038116,35.6383018,22.85 139.7037964,35.6387520,29.61 139.7034607,35.6390762,46.64 139.7029419,35.6392784,49.92 139.7026520,35.6396446,63.88 139.7024841,35.6403656,68.20 139.7021179,35.6406746,51.30 139.7017212,35.6409988,57.14 139.7014923,35.6414108,55.51 139.7015228,35.6419373,45.31 139.7009583,35.6424675,-2.82 139.7007446,35.6428757,14.51 139.7005005,35.6432838,16.46 139.7002106,35.6436729,13.44 139.6998291,35.6441040,10.64 139.6997833,35.6445732,13.22 139.6994324,35.6442375,-4.58 139.6991119,35.6438370,-2.79 139.6985931,35.6436653,3.44 139.6982422,35.6432648,0.74 139.6980591,35.6428337,-2.46 139.6979370,35.6423988,-10.13 139.6976776,35.6420021,-20.17 139.6971588,35.6420212,-41.66 139.6966095,35.6421738,-47.97 139.6960449,35.6421471,-59.74 139.6954346,35.6421814,-75.09 139.6949005,35.6421509,-88.88 139.6943817,35.6422272,-106.59 139.6938782,35.6422577,-127.12 139.6932983,35.6421661,-136.04 139.6927643,35.6415901,-143.31 139.6926422,35.6422882,-149.66 139.6921692,35.6423454,-173.11 139.6916504,35.6424637,-188.63 139.6911316,35.6424065,-205.80 139.6907043,35.6421165,-246.51 139.6871948,35.6439247,-348.55 139.6871796,35.6433830,-374.92 139.6867371,35.6435928,-351.18 139.6856842,35.6436081,-373.26 139.6871033,35.6429634,-304.74 139.6869354,35.6427231,-263.43 139.6870575,35.6428528,-210.09 139.6868744,35.6423950,-197.21 139.6867371,35.6419792,-175.19 139.6865082,35.6415863,-153.22 139.6864624,35.6412277,-122.75 139.6860199,35.6409378,-115.25 139.6857605,35.6405182,-118.28 139.6855164,35.6400833,-119.83 139.6851654,35.6397400,-132.43 139.6846466,35.6395950,-146.24 139.6841583,35.6393013,-149.73 139.6836700,35.6390991,-157.81 139.6831818,35.6388626,-163.81 139.6826172,35.6387520,-166.90 139.6820679,35.6388702,-174.78 139.6816254,35.6374626,-131.84 139.6817322,35.6378365,-96.42 139.6814423,35.6380577,-60.23 139.6809540,35.6382256,-42.86 139.6805573,35.6385422,-30.44 139.6800079,35.6384697,-23.60 139.6794586,35.6383286,-18.34 139.6789398,35.6381989,-10.28 139.6784210,35.6379967,-2.50 139.6778717,35.6380196,7.57 139.6773529,35.6381760,14.97 139.6770172,35.6378365,27.01 139.6764679,35.6379738,24.52 139.6759644,35.6381416,23.99 139.6753998,35.6382790,20.47 139.6748505,35.6384010,16.67 139.6743774,35.6386414,13.41 139.6738892,35.6389008,7.80 139.6733246,35.6388741,4.91 139.6728210,35.6390686,8.32 139.6722717,35.6392441,8.73 139.6716919,35.6394119,5.57 139.6711578,35.6395149,3.20 139.6706696,35.6397400,-0.10 139.6701508,35.6399155,-4.85 139.6696320,35.6400909,-14.04 139.6689606,35.6399002,-13.49 139.6683960,35.6398277,-12.35 139.6679077,35.6400604,-12.24 139.6679230,35.6405144,-23.17 139.6674500,35.6406898,-41.61 139.6673737,35.6413116,-46.26 139.6668854,35.6416283,-46.16 139.6663513,35.6417809,-49.21 139.6658936,35.6420631,-53.16 139.6653290,35.6420517,-52.74 139.6647797,35.6419983,-55.17 139.6642914,35.6417274,-58.11 139.6638336,35.6414642,-59.51 139.6634216,35.6411476,-58.63 139.6629486,35.6408997,-58.99 139.6624451,35.6407127,-57.25 139.6621094,35.6403580,-64.27 139.6620636,35.6398659,-58.21 139.6619110,35.6394272,-53.47 139.6621094,35.6389885,-43.41 139.6623077,35.6385384,-39.32 139.6623993,35.6381035,-21.85 139.6625977,35.6376686,-6.30 139.6627655,35.6371956,8.71 139.6630859,35.6368675,28.09 139.6634064,35.6365128,45.45 139.6638184,35.6361732,57.12 139.6642303,35.6358528,66.06 139.6647034,35.6356163,74.96 </coordinates>
+</LineString>
+</MultiGeometry>
+</Placemark>
+<Folder><name>waypoints</name><Placemark>
+<name>2011/05/08 12:59:19 14.08Km/hr 0.00Km 50m</name>
+<styleUrl>#styleMap_TLP_Start</styleUrl>
+<Point>
+<coordinates>
+139.6617279,35.6700401,48.95
+</coordinates>
+</Point>
+<description><![CDATA[<img src="http://saka1029.web.fc2.com/2011/0508/height_fix.png"></img><br>
+<img src="http://saka1029.web.fc2.com/2011/0508/speed_fix.png"></img><br>
+]]></description></Placemark><Placemark>
+<name>2011/05/08 12:59:49 4.98Km/hr 0.10Km 49m</name>
+<styleUrl>#styleMap_TLP_Photo</styleUrl>
+<Point>
+<coordinates>
+139.6615906,35.6691360,51.71
+</coordinates>
+</Point>
+<description><![CDATA[<b>井の頭通り</b><br>
+<img src="http://saka1029.web.fc2.com/2011/0508/IMG_1461.JPG"></img><br>
+]]></description></Placemark><Placemark>
+<name>2011/05/08 13:04:31 14.85Km/hr 1.05Km 46m</name>
+<styleUrl>#styleMap_TLP_Normal</styleUrl>
+<Point>
+<coordinates>
+139.6601868,35.6606560,62.18
+</coordinates>
+</Point>
+<description/></Placemark><Placemark>
+<name>2011/05/08 13:08:05 14.54Km/hr 2.10Km 40m</name>
+<styleUrl>#styleMap_TLP_Normal</styleUrl>
+<Point>
+<coordinates>
+139.6604614,35.6512489,48.19
+</coordinates>
+</Point>
+<description/></Placemark><Placemark>
+<name>2011/05/08 13:15:14 16.56Km/hr 3.15Km 38m</name>
+<styleUrl>#styleMap_TLP_Normal</styleUrl>
+<Point>
+<coordinates>
+139.6611176,35.6418457,71.37
+</coordinates>
+</Point>
+<description/></Placemark><Placemark>
+<name>2011/05/08 13:20:52 14.72Km/hr 4.19Km 45m</name>
+<styleUrl>#styleMap_TLP_Normal</styleUrl>
+<Point>
+<coordinates>
+139.6666565,35.6340599,54.50
+</coordinates>
+</Point>
+<description/></Placemark><Placemark>
+<name>2011/05/08 13:27:35 6.26Km/hr 5.24Km 42m</name>
+<styleUrl>#styleMap_TLP_Normal</styleUrl>
+<Point>
+<coordinates>
+139.6757355,35.6288071,34.54
+</coordinates>
+</Point>
+<description/></Placemark><Placemark>
+<name>2011/05/08 13:34:30 11.76Km/hr 6.28Km 39m</name>
+<styleUrl>#styleMap_TLP_Normal</styleUrl>
+<Point>
+<coordinates>
+139.6854858,35.6299667,23.17
+</coordinates>
+</Point>
+<description/></Placemark><Placemark>
+<name>2011/05/08 13:39:06 4.24Km/hr 7.00Km 34m</name>
+<styleUrl>#styleMap_TLP_Photo</styleUrl>
+<Point>
+<coordinates>
+139.6927185,35.6278725,-17.58
+</coordinates>
+</Point>
+<description><![CDATA[<b>目黒通り</b><br>
+<img src="http://saka1029.web.fc2.com/2011/0508/IMG_1462.JPG"></img><br>
+]]></description></Placemark><Placemark>
+<name>2011/05/08 13:40:41 4.72Km/hr 7.10Km 33m</name>
+<styleUrl>#styleMap_TLP_Photo</styleUrl>
+<Point>
+<coordinates>
+139.6934052,35.6273537,-7.46
+</coordinates>
+</Point>
+<description><![CDATA[<img src="http://saka1029.web.fc2.com/2011/0508/IMG_1463.JPG"></img><br>
+]]></description></Placemark><Placemark>
+<name>2011/05/08 13:42:38 3.86Km/hr 7.31Km 34m</name>
+<styleUrl>#styleMap_TLP_Photo</styleUrl>
+<Point>
+<coordinates>
+139.6935730,35.6255150,-5.01
+</coordinates>
+</Point>
+<description><![CDATA[<img src="http://saka1029.web.fc2.com/2011/0508/IMG_1464.JPG"></img><br>
+]]></description></Placemark><Placemark>
+<name>2011/05/08 13:46:54 6.96Km/hr 7.72Km 32m</name>
+<styleUrl>#styleMap_TLP_Photo</styleUrl>
+<Point>
+<coordinates>
+139.6969757,35.6244965,12.13
+</coordinates>
+</Point>
+<description><![CDATA[<img src="http://saka1029.web.fc2.com/2011/0508/IMG_1465.JPG"></img><br>
+]]></description></Placemark><Placemark>
+<name>2011/05/08 13:50:46 3.85Km/hr 8.33Km 32m</name>
+<styleUrl>#styleMap_TLP_Normal</styleUrl>
+<Point>
+<coordinates>
+139.7030640,35.6223869,-7.06
+</coordinates>
+</Point>
+<description/></Placemark><Placemark>
+<name>2011/05/08 13:56:01 8.50Km/hr 9.00Km 32m</name>
+<styleUrl>#styleMap_TLP_Photo</styleUrl>
+<Point>
+<coordinates>
+139.6965790,35.6249084,15.91
+</coordinates>
+</Point>
+<description><![CDATA[<img src="http://saka1029.web.fc2.com/2011/0508/IMG_1466.JPG"></img><br>
+]]></description></Placemark><Placemark>
+<name>2011/05/08 13:57:53 4.72Km/hr 9.26Km 29m</name>
+<styleUrl>#styleMap_TLP_Photo</styleUrl>
+<Point>
+<coordinates>
+139.6981659,35.6257477,26.16
+</coordinates>
+</Point>
+<description><![CDATA[<img src="http://saka1029.web.fc2.com/2011/0508/IMG_1467.JPG"></img><br>
+]]></description></Placemark><Placemark>
+<name>2011/05/08 13:58:54 2.36Km/hr 9.31Km 29m</name>
+<styleUrl>#styleMap_TLP_Photo</styleUrl>
+<Point>
+<coordinates>
+139.6986847,35.6259270,25.01
+</coordinates>
+</Point>
+<description><![CDATA[<img src="http://saka1029.web.fc2.com/2011/0508/IMG_1468.JPG"></img><br>
+<b>羅漢寺川プロムナード</b><br>
+<img src="http://saka1029.web.fc2.com/2011/0508/IMG_1469.JPG"></img><br>
+<b>羅漢寺川プロムナード案内図</b><br>
+<img src="http://saka1029.web.fc2.com/2011/0508/IMG_1470.JPG"></img><br>
+]]></description></Placemark><Placemark>
+<name>2011/05/08 14:00:30 2.29Km/hr 9.36Km 31m</name>
+<styleUrl>#styleMap_TLP_Photo</styleUrl>
+<Point>
+<coordinates>
+139.6992188,35.6257629,29.82
+</coordinates>
+</Point>
+<description><![CDATA[<b>羅漢寺川プロムナード</b><br>
+<img src="http://saka1029.web.fc2.com/2011/0508/IMG_1471.JPG"></img><br>
+]]></description></Placemark><Placemark>
+<name>2011/05/08 14:01:34 3.17Km/hr 9.41Km 32m</name>
+<styleUrl>#styleMap_TLP_Photo</styleUrl>
+<Point>
+<coordinates>
+139.6997528,35.6258774,28.08
+</coordinates>
+</Point>
+<description><![CDATA[<b>羅漢寺川プロムナード</b><br>
+<img src="http://saka1029.web.fc2.com/2011/0508/IMG_1472.JPG"></img><br>
+]]></description></Placemark><Placemark>
+<name>2011/05/08 14:02:46 11.09Km/hr 9.51Km 31m</name>
+<styleUrl>#styleMap_TLP_Photo</styleUrl>
+<Point>
+<coordinates>
+139.7007904,35.6262283,24.80
+</coordinates>
+</Point>
+<description><![CDATA[<b>羅漢寺川プロムナード</b><br>
+看板は「林試の森公園」<br>
+<img src="http://saka1029.web.fc2.com/2011/0508/IMG_1473.JPG"></img><br>
+]]></description></Placemark><Placemark>
+<name>2011/05/08 14:08:18 5.31Km/hr 10.17Km 12m</name>
+<styleUrl>#styleMap_TLP_Photo</styleUrl>
+<Point>
+<coordinates>
+139.7075500,35.6271553,10.92
+</coordinates>
+</Point>
+<description><![CDATA[<b>瀧泉寺</b><br>
+<img src="http://saka1029.web.fc2.com/2011/0508/IMG_1474.JPG"></img><br>
+]]></description></Placemark><Placemark>
+<name>2011/05/08 14:10:55 3.64Km/hr 10.32Km 10m</name>
+<styleUrl>#styleMap_TLP_Photo</styleUrl>
+<Point>
+<coordinates>
+139.7088623,35.6277504,10.53
+</coordinates>
+</Point>
+<description><![CDATA[<img src="http://saka1029.web.fc2.com/2011/0508/IMG_1475.JPG"></img><br>
+]]></description></Placemark><Placemark>
+<name>2011/05/08 14:11:14 5.13Km/hr 10.38Km 9m</name>
+<styleUrl>#styleMap_TLP_Normal</styleUrl>
+<Point>
+<coordinates>
+139.7093201,35.6280136,5.20
+</coordinates>
+</Point>
+<description/></Placemark><Placemark>
+<name>2011/05/08 14:14:31 2.87Km/hr 10.60Km 7m</name>
+<styleUrl>#styleMap_TLP_Photo</styleUrl>
+<Point>
+<coordinates>
+139.7104950,35.6297455,-9.60
+</coordinates>
+</Point>
+<description><![CDATA[<img src="http://saka1029.web.fc2.com/2011/0508/IMG_1476.JPG"></img><br>
+]]></description></Placemark><Placemark>
+<name>2011/05/08 14:15:30 8.60Km/hr 10.70Km 5m</name>
+<styleUrl>#styleMap_TLP_Photo</styleUrl>
+<Point>
+<coordinates>
+139.7109222,35.6306114,-13.81
+</coordinates>
+</Point>
+<description><![CDATA[<b>羅漢寺川</b><br>
+<img src="http://saka1029.web.fc2.com/2011/0508/IMG_1477.JPG"></img><br>
+]]></description></Placemark><Placemark>
+<name>2011/05/08 14:18:11 5.54Km/hr 11.13Km 3m</name>
+<styleUrl>#styleMap_TLP_Photo</styleUrl>
+<Point>
+<coordinates>
+139.7127991,35.6313515,1.93
+</coordinates>
+</Point>
+<description><![CDATA[<b>羅漢寺川が目黒川に出るところ</b><br>
+<img src="http://saka1029.web.fc2.com/2011/0508/IMG_1478.JPG"></img><br>
+]]></description></Placemark><Placemark>
+<name>2011/05/08 14:27:25 12.04Km/hr 11.44Km 8m</name>
+<styleUrl>#styleMap_TLP_Normal</styleUrl>
+<Point>
+<coordinates>
+139.7134399,35.6313248,2.38
+</coordinates>
+</Point>
+<description/></Placemark><Placemark>
+<name>2011/05/08 14:35:43 10.19Km/hr 12.66Km 8m</name>
+<styleUrl>#styleMap_TLP_Normal</styleUrl>
+<Point>
+<coordinates>
+139.7042999,35.6380768,17.25
+</coordinates>
+</Point>
+<description/></Placemark><Placemark>
+<name>2011/05/08 14:42:33 6.36Km/hr 13.49Km 9m</name>
+<styleUrl>#styleMap_TLP_Photo</styleUrl>
+<Point>
+<coordinates>
+139.6998291,35.6441040,10.64
+</coordinates>
+</Point>
+<description><![CDATA[<b>蛇崩川が目黒川に出るところ</b><br>
+<img src="http://saka1029.web.fc2.com/2011/0508/IMG_1479.JPG"></img><br>
+]]></description></Placemark><Placemark>
+<name>2011/05/08 14:43:01 1.49Km/hr 13.54Km 8m</name>
+<styleUrl>#styleMap_TLP_Photo</styleUrl>
+<Point>
+<coordinates>
+139.6997833,35.6445732,13.22
+</coordinates>
+</Point>
+<description><![CDATA[<b>蛇崩川</b><br>
+<img src="http://saka1029.web.fc2.com/2011/0508/IMG_1480.JPG"></img><br>
+]]></description></Placemark><Placemark>
+<name>2011/05/08 14:47:52 6.01Km/hr 13.75Km 12m</name>
+<styleUrl>#styleMap_TLP_Normal</styleUrl>
+<Point>
+<coordinates>
+139.6982422,35.6432648,0.74
+</coordinates>
+</Point>
+<description/></Placemark><Placemark>
+<name>2011/05/08 14:53:49 13.08Km/hr 15.13Km 34m</name>
+<styleUrl>#styleMap_TLP_Normal</styleUrl>
+<Point>
+<coordinates>
+139.6867371,35.6435928,-351.18
+</coordinates>
+</Point>
+<description/></Placemark><Placemark>
+<name>2011/05/08 15:02:39 14.88Km/hr 16.33Km 27m</name>
+<styleUrl>#styleMap_TLP_Normal</styleUrl>
+<Point>
+<coordinates>
+139.6817322,35.6378365,-96.42
+</coordinates>
+</Point>
+<description/></Placemark><Placemark>
+<name>2011/05/08 15:24:14 9.49Km/hr 17.33Km 33m</name>
+<styleUrl>#styleMap_TLP_Normal</styleUrl>
+<Point>
+<coordinates>
+139.6716919,35.6394119,5.57
+</coordinates>
+</Point>
+<description/></Placemark><Placemark>
+<name>2011/05/08 15:31:19 8.36Km/hr 18.39Km 36m</name>
+<styleUrl>#styleMap_TLP_Normal</styleUrl>
+<Point>
+<coordinates>
+139.6624451,35.6407127,-57.25
+</coordinates>
+</Point>
+<description/></Placemark><Placemark>
+<name>2011/05/08 15:34:22 13.91Km/hr 19.05Km 50m</name>
+<styleUrl>#styleMap_TLP_Finish</styleUrl>
+<Point>
+<coordinates>
+139.6647034,35.6356163,74.96
+</coordinates>
+</Point>
+<description/></Placemark></Folder>
+</Document>
+</kml>
