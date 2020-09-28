@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<link rel="icon" type="image/png" href="favicon.png">
+<title>GPS Log</title>
+<link rel="stylesheet" type="text/css" href="style.css" />
+<script src="gmap.js" type="text/javascript"></script>
+</head>
+<body>
+	<div id="site-panel" class="site-panel panel">
+		<div class="header-panel panel">
+			<p><b>GPS Log</b>
+			<input id="query-text" type="text" onkeypress="onKeyPress()" />
+			<input id="query-button" type="button" value="🔍"  style="background-color:black; border:none" onclick="query()"/>
+			<span id="message"></span>
+			</p>
+		</div>
+		<div class="content-panel panel">
+			<div class="left-panel panel">
+				<div id="result"></div>
+			</div>
+			<div class="right-panel panel">
+				<iframe id="map" class="map"
+				    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+				    allowfullscreen
+					src="http://tokyoheight.html.xdomain.jp"></iframe>
+			</div>
+		</div>
+	</div>
+<script type="text/javascript">
+const data = ALL_DATA;
+const right = document.getElementById("map");
+const message = document.getElementById("message");
+const result = document.getElementById("result");
+
+function overlap(e, f) {
+	return e.maxLon >= f.minLon && e.minLon <= f.maxLon
+	    && e.maxLat >= f.minLat && e.minLat <= f.maxLat;
+}
+
+function onKeyPress() {
+    if (window.event.keyCode == 13)
+        query();
+}
+
+function map(i) {
+	const e = data[i];
+	right.src = "http://tokyoheight.html.xdomain.jp/?k=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fkml%3Fmid%3D" + e.id;
+    message.innerText = e.title;
+}
+
+function neighbor(i) {
+	const e = data[i];
+    let html = "<ul>";
+    for (let i = 0; i < data.length; ++i)
+    	if (overlap(e, data[i]))
+    		html += entry(i)
+    html += "</ul>";
+    result.innerHTML = html;
+}
+
+function tube(i, k) {
+	const e = data[i];
+	right.src = "https://www.youtube.com/embed/" + e.youTube[k] + "?autoplay=1";
+    message.innerText = e.title;
+}
+
+function entry(i) {
+	const e = data[i];
+	let html = "<li><a href=\"#\" onclick=\"map(" + i + ")\" title=\"地図\">" + e.title + "</a>";
+	html += " <a href=\"https://www.google.com/maps/d/viewer?mid=" + e.id + "\" title=\"マイマップビュアー\" target=\"_blank\">"
+	    + "<img class=\"image_button\" src=\"view.png\"></a>";
+	html += " <a href=\"https://www.google.com/maps/d/edit?mid=" + e.id + "\" title=\"マイマップ編集\" target=\"_blank\">"
+		+ "<img class=\"image_button\" src=\"edit.png\"></a>";
+	html += " <a href=\"https://www.google.com/maps/d/kml?mid=" + e.id + "\" title=\"KMZダウンロード\">"
+	    + "<img class=\"image_button\" src=\"download.png\"></a>";
+	html += " <a href=\"#\" onclick=\"neighbor(" + i + ")\" title=\"近傍\">"
+	    + "<img class=\"image_button\" src=\"neighbor.png\"></a>";
+	for (let k = 0; k < e.youTube.length; ++k)
+		html += " <a href=\"#\" onclick=\"tube(" + i + "," + k + ")\" title=\"YouTube\">"
+		+ "<img class=\"image_button\" src=\"play.png\"></a>";
+	html += "</li>";
+	return html;
+}
+
+function query() {
+    const queryText = document.getElementById("query-text").value;
+    let html = "<ul>";
+    for (let i = 0; i < data.length; ++i)
+        if (data[i].description.indexOf(queryText) >= 0)
+        	html += entry(i);
+    html += "</ul>";
+    result.innerHTML = html;
+//    document.getElementById("message").innerText = count + "件みつかりました。";
+}
+
+function onKeyPress() {
+    if (window.event.keyCode == 13)
+        query();
+}
+
+query();    // initialize with all data
+</script>
+</body>
+</html>

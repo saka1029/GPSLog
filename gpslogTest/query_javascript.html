@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="ja">
+<!-- 
+javascriptで記述したデータベースから検索して結果を表示するページです。
+ -->
+    <head>
+        <meta charset="UTF-8">
+        <title>検索</title>
+        <script type="text/javascript" src="all_data.js"></script>
+        <script type="text/javascript">
+function onKeyPress() {
+    if (window.event.keyCode == 13)
+        query();
+}
+
+function query() {
+    const data = ALL_DATA;
+    const queryText = document.getElementById("queryText").value;
+    let html = "<table border='1'><tr><th>doc id</th><th>name</th></tr>";
+    let count = 0;
+    for (const e of data)
+        if (e.name.indexOf(queryText) >= 0) {
+            html += "<tr><td>" + e.doc_id + "</td><td>" + e.name + "</td></tr>";
+            count++;
+        }
+    html += "</table>";
+    document.getElementById("output").innerHTML = html;
+    document.getElementById("message").innerText = count + "件みつかりました。";
+}
+</script>
+    </head>
+    <body>
+        <input id="queryText" type="text" onkeypress="onKeyPress()" />
+        <input id="queryButton" type="button" value="検索" onclick="query();" />
+        <hr />
+        <div>検索結果はこちら</div>
+        <p id="message" style="color:red"></p>
+        <span id="output"></span>
+    </body>
+</html>

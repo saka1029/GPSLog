@@ -1,61 +1,384 @@
-2018/05/17 18:02:28 INFO: 開始
-2018/05/17 18:02:31 INFO: Holux_M-241_Start_20090919-115534_Finish_20090919-122501.kml placemarks=126 pegs=8 images=2 heights=64
-2018/05/17 18:02:31 INFO: Holux_M-241_Start_20090919-205245_Finish_20090919-211039.kml placemarks=76 pegs=5 images=2 heights=39
-2018/05/17 18:02:31 INFO: Holux_M-241_Start_20090920-103257_Finish_20090920-154426.kml placemarks=1238 pegs=63 images=2 heights=620
-2018/05/17 18:02:31 INFO: Holux_M-241_Start_20090922-112624_Finish_20090922-203542.kml placemarks=1340 pegs=68 images=2 heights=671
-2018/05/17 18:02:31 INFO: Holux_M-241_Start_20090926-015305_Finish_20090926-024421.kml placemarks=358 pegs=19 images=2 heights=180
-2018/05/17 18:02:31 INFO: Holux_M-241_Start_20090926-105216_Finish_20090926-170528.kml placemarks=1142 pegs=59 images=2 heights=572
-2018/05/17 18:02:32 INFO: Holux_M-241_Start_20091003-124905_Finish_20091003-202347.kml placemarks=1327 pegs=68 images=2 heights=664
-2018/05/17 18:02:47 INFO: Holux_M-241_Start_20091018-125948_Finish_20091018-185056.kml placemarks=660 pegs=38 images=25 heights=333
-2018/05/17 18:02:47 INFO: Holux_M-241_Start_20091031-103822_Finish_20091031-171353.kml placemarks=524 pegs=28 images=2 heights=263
-2018/05/17 18:02:56 INFO: Holux_M-241_Start_20091115-094229_Finish_20091115-174554.kml placemarks=1304 pegs=78 images=17 heights=659
-2018/05/17 18:02:56 INFO: Holux_M-241_Start_20091128-115846_Finish_20091128-211236.kml placemarks=613 pegs=32 images=2 heights=307
-2018/05/17 18:02:56 INFO: Holux_M-241_Start_20091212-120041_Finish_20091212-175253.kml placemarks=638 pegs=33 images=2 heights=320
-2018/05/17 18:02:56 INFO: Holux_M-241_Start_20091223-104651_Finish_20091223-175142.kml placemarks=1558 pegs=79 images=2 heights=780
-2018/05/17 18:02:58 INFO: Holux_M-241_Start_20100320-133648_Finish_20100320-211549.kml placemarks=505 pegs=27 images=2 heights=253
-2018/05/17 18:02:58 INFO: Holux_M-241_Start_20100328-115128_Finish_20100328-142645.kml placemarks=418 pegs=22 images=2 heights=210
-2018/05/17 18:02:59 INFO: Holux_M-241_Start_20100328-165200_Finish_20100328-180552.kml placemarks=171 pegs=10 images=2 heights=86
-2018/05/17 18:02:59 INFO: Holux_M-241_Start_20100403-105328_Finish_20100403-164043.kml placemarks=602 pegs=32 images=2 heights=302
-2018/05/17 18:02:59 INFO: Holux_M-241_Start_20100410-130402_Finish_20100410-190736.kml placemarks=495 pegs=26 images=2 heights=248
-2018/05/17 18:02:59 INFO: Holux_M-241_Start_20100411-115852_Finish_20100411-181254.kml placemarks=521 pegs=27 images=2 heights=261
-2018/05/17 18:04:03 INFO: Holux_M-241_Start_20100418-092806_Finish_20100418-165532.kml placemarks=606 pegs=61 images=96 heights=319
-2018/05/17 18:04:13 INFO: Holux_M-241_Start_20100425-125151_Finish_20100425-161714.kml placemarks=353 pegs=30 images=17 heights=183
-2018/05/17 18:04:49 INFO: Holux_M-241_Start_20100501-124106_Finish_20100501-170150.kml placemarks=579 pegs=52 images=65 heights=301
-2018/05/17 18:05:01 INFO: Holux_M-241_Start_20100502-123141_Finish_20100502-145429.kml placemarks=236 pegs=27 images=24 heights=127
-2018/05/17 18:05:07 INFO: Holux_M-241_Start_20100502-161526_Finish_20100502-172743.kml placemarks=242 pegs=20 images=15 heights=126
-2018/05/17 18:05:25 INFO: Holux_M-241_Start_20100504-113547_Finish_20100504-144123.kml placemarks=282 pegs=36 images=37 heights=152
-2018/05/17 18:05:32 INFO: Holux_M-241_Start_20100504-153007_Finish_20100504-154436.kml placemarks=28 pegs=10 images=13 heights=18
-2018/05/17 18:05:32 INFO: Holux_M-241_Start_20100505-145735_Finish_20100505-181847.kml placemarks=609 pegs=32 images=2 heights=305
-2018/05/17 18:06:24 INFO: Holux_M-241_Start_20100508-092257_Finish_20100508-113358.kml placemarks=192 pegs=77 images=101 heights=136
-2018/05/17 18:06:25 INFO: Holux_M-241_Start_20100522-092911_Finish_20100522-094330.kml placemarks=51 pegs=4 images=2 heights=26
-2018/05/17 18:06:45 INFO: Holux_M-241_Start_20100704-122841_Finish_20100704-190938.kml placemarks=1182 pegs=70 images=43 heights=598
-2018/05/17 18:06:45 INFO: Holux_M-241_Start_20100710-111658_Finish_20100710-165759.kml placemarks=660 pegs=34 images=2 heights=331
-2018/05/17 18:06:47 INFO: Holux_M-241_Start_20100717-112355_Finish_20100717-164252.kml placemarks=843 pegs=45 images=4 heights=423
-2018/05/17 18:06:47 INFO: Holux_M-241_Start_20100719-123009_Finish_20100719-161321.kml placemarks=329 pegs=18 images=2 heights=165
-2018/05/17 18:07:05 INFO: Holux_M-241_Start_20100725-125543_Finish_20100725-144109.kml placemarks=173 pegs=36 images=35 heights=101
-2018/05/17 18:07:27 INFO: Holux_M-241_Start_20100801-111846_Finish_20100801-181653.kml placemarks=1028 pegs=83 images=39 heights=530
-2018/05/17 18:07:36 INFO: Holux_M-241_Start_20101016-105018_Finish_20101016-110232.kml placemarks=21 pegs=14 images=19 heights=15
-2018/05/17 18:07:52 INFO: Holux_M-241_Start_20101016-110823_Finish_20101016-113910.kml placemarks=56 pegs=22 images=26 heights=37
-2018/05/17 18:07:52 INFO: Holux_M-241_Start_20101024-112359_Finish_20101024-113204.kml placemarks=24 pegs=3 images=2 heights=13
-2018/05/17 18:08:03 INFO: Holux_M-241_Start_20110227-104110_Finish_20110227-120721.kml placemarks=197 pegs=28 images=22 heights=106
-2018/05/17 18:08:09 INFO: Holux_M-241_Start_20110227-121203_Finish_20110227-124517.kml placemarks=50 pegs=10 images=12 heights=30
-2018/05/17 18:08:13 INFO: Holux_M-241_Start_20110320-171747_Finish_20110320-173022.kml placemarks=152 pegs=14 images=7 heights=79
-2018/05/17 18:08:29 INFO: Holux_M-241_Start_20110327-122130_Finish_20110327-130935.kml placemarks=103 pegs=24 images=35 heights=61
-2018/05/17 18:08:31 INFO: Holux_M-241_Start_20110402-104120_Finish_20110402-110248.kml placemarks=36 pegs=6 images=6 heights=20
-2018/05/17 18:08:50 INFO: Holux_M-241_Start_20110409-145018_Finish_20110409-184655.kml placemarks=823 pegs=75 images=39 heights=428
-2018/05/17 18:09:29 INFO: Holux_M-241_Start_20110410-105311_Finish_20110410-152225.kml placemarks=694 pegs=96 images=74 heights=375
-2018/05/17 18:09:31 INFO: Holux_M-241_Start_20110416-132611_Finish_20110416-171839.kml placemarks=376 pegs=24 images=6 heights=191
-2018/05/17 18:09:33 INFO: Holux_M-241_Start_20110424-141225_Finish_20110424-165151.kml placemarks=173 pegs=12 images=4 heights=89
-2018/05/17 18:09:44 INFO: Holux_M-241_Start_20110429-125523_Finish_20110429-132728.kml placemarks=57 pegs=23 images=22 heights=43
-2018/05/17 18:09:55 INFO: Holux_M-241_Start_20110508-125919_Finish_20110508-153422.kml placemarks=354 pegs=35 images=22 heights=184
-2018/05/17 18:10:05 INFO: Holux_M-241_Start_20110515-132029_Finish_20110515-135121.kml placemarks=51 pegs=17 images=20 heights=32
-2018/05/17 18:10:29 INFO: Holux_M-241_Start_20110709-124122_Finish_20110709-133535.kml placemarks=83 pegs=23 images=22 heights=52
-2018/05/17 18:10:38 INFO: Holux_M-241_Start_20110718-114556_Finish_20110718-145111.kml placemarks=580 pegs=36 images=8 heights=294
-2018/05/17 18:10:38 INFO: Holux_M-241_Start_20110808-113716_Finish_20110808-173444.kml placemarks=1215 pegs=62 images=2 heights=608
-2018/05/17 18:11:10 INFO: Holux_M-241_Start_20110811-175914_Finish_20110811-181509.kml placemarks=20 pegs=15 images=22 heights=19
-2018/05/17 18:11:20 INFO: Holux_M-241_Start_20110812-125412_Finish_20110812-163302.kml placemarks=682 pegs=39 images=8 heights=344
-2018/05/17 18:11:31 INFO: Holux_M-241_Start_20110820-133018_Finish_20110820-155229.kml placemarks=436 pegs=29 images=11 heights=223
-2018/05/17 18:11:47 INFO: Holux_M-241_Start_20130701-123332_Finish_20130701-135536.kml placemarks=175 pegs=13 images=10 heights=89
-2018/05/17 18:11:47 INFO: Holux_M-241_Start_20130706-104254_Finish_20130706-151353.kml placemarks=465 pegs=25 images=2 heights=233
-2018/05/17 18:11:47 INFO: Holux_M-241_Start_20130707-113507_Finish_20130707-133642.kml placemarks=362 pegs=20 images=2 heights=182
-2018/05/17 18:11:47 INFO: 終了
+2019/08/09 21:09:13 INFO: #### 1964年オリンピック東京大会 マラソン折返点記念碑.gmap
+2019/08/09 21:09:14 INFO:      MyMap(title=1964年オリンピック東京大会 マラソン折返点記念碑 id=1xUyJ7sgL5ySPtDJZ16akMBIEzzk description=[折り返し点, 1964年オリンピック東京大会 マラソン折返点記念碑] lonlat=(139.525541,35.663137)-(139.525541,35.663137) youTube=[])
+2019/08/09 21:09:14 INFO: #### 2013-09-16 Omiya Hachiman Tokyo.gmap
+2019/08/09 21:09:15 INFO:      MyMap(title=2013-09-16 Omiya Hachiman Tokyo id=14y8WjiSMiEd_3CkNTH9yDKEjRIE description=[path, Movie, 2013-09-16 Omiya Hachiman Tokyo, YouTube< (http://youtu.be/oKQASQiZw1M)] lonlat=(139.639530,35.682011)-(139.642860,35.682573) youTube=[oKQASQiZw1M])
+2019/08/09 21:09:15 INFO: #### 21 Balançoires.gmap
+2019/08/09 21:09:15 INFO:      MyMap(title=21 Balançoires id=1OX-m3t2ZALpPq5Julol2XPccZm4 description=[21 Balançoires, 目印 1] lonlat=(-73.567897,45.509317)-(-73.567897,45.509317) youTube=[])
+2019/08/09 21:09:15 INFO: #### 49日.gmap
+2019/08/09 21:09:16 INFO:      MyMap(title=49日 id=1ThuA4PFOKnVyxkMIVu2KUQKF6lA description=[49日, 三光院] lonlat=(139.446593,35.748559)-(139.446593,35.748559) youTube=[])
+2019/08/09 21:09:16 INFO: #### Aoyama Street Aug. 5 2012.gmap
+2019/08/09 21:09:16 INFO:      MyMap(title=Aoyama Street Aug. 5 2012 id=1WVpNlB-BaSzoRKMr-axuDhi5Iuw description=[path, You Tube (http://youtu.be/BWj8pqdQnsQ), Aoyama Street Aug. 5 2012] lonlat=(139.710763,35.662984)-(139.720972,35.678285) youTube=[BWj8pqdQnsQ])
+2019/08/09 21:09:16 INFO: #### BNT 299 W Szczecinie na wielkim kominie (Dream Jump Big Tower 252 metry) 2019-07-30.gmap
+2019/08/09 21:09:16 INFO:      MyMap(title=BNT 299 W Szczecinie na wielkim kominie (Dream Jump Big Tower 252 metry) 2019-07-30 id=1qh8-spm6vW5sIkZ7_kWTxW7Nmm5PmtI6 description=[BIG TOWER SZCZECIN 252M, Wiskord, BNT 299 W Szczecinie na wielkim kominie (Dream Jump Big Tower 252 metry) 2019-07-30, Wiskord. sport Club, このランキングだとバンジージャンプ世界第2位https://sotoasobi.net/activity/bungy-jumping/blog/bungyjump-world-ranking-best-5, https://www.youtube.com/embed/S13TZ-OTVMQhttps://dreamjump.pl/pl/jumps/dream-jump-szczecin-252m.html] lonlat=(14.558570,53.353271)-(14.574510,53.356113) youTube=[S13TZ-OTVMQ])
+2019/08/09 21:09:16 INFO: #### CHN-033.gmap
+2019/08/09 21:09:17 INFO:      MyMap(title=CHN-033 id=1O4iSO-3JrbNyrdukff2xAaPsXlU description=[最初の会話, CHN-033] lonlat=(139.741655,35.670620)-(139.741655,35.670620) youTube=[])
+2019/08/09 21:09:17 INFO: #### Chokolove from AKB48.gmap
+2019/08/09 21:09:17 INFO:      MyMap(title=Chokolove from AKB48 id=1Bs2w9x7z-7DUdd3JnB-ILU2_BYI description=[Chocolove from AKB48 - 明日は明日の君が生まれる Making (http://www.youtube.com/watch?v=kmfMVEsAtjI)自転車 (http://youtu.be/YpbYHnz9Vug?t=3m42s), Chocolove from AKB48 - 明日は明日の君が生まれる2007-4-13 MV撮影1日目中西里菜（なかにし りな、1988年6月26日 - ） - チームA（旧チーム。AKB48卒業まで）秋元才加（あきもと さやか、1988年7月26日 - ） - チームK宮澤佐江（みやざわ さえ、1990年8月13日 - ） - チームK→SNH48, 弾着 (http://youtu.be/87hyCaqppRY?t=3m45s), Chokolove from AKB48, 撮影場所１, 撮影場所２] lonlat=(139.524876,35.445157)-(139.641541,35.676429) youTube=[YpbYHnz9Vug, 87hyCaqppRY, kmfMVEsAtjI])
+2019/08/09 21:09:17 INFO: #### GANTZ Perfect Answer.gmap
+2019/08/09 21:09:17 INFO:      MyMap(title=GANTZ Perfect Answer id=175cmULtCnoHstUFqWJarPXtyY-g description=[GANTZ Perfect Answer, 玄野計（二宮和也）と小島多恵（吉高由里子）が歩きながら話すところ] lonlat=(139.683030,35.594707)-(139.683030,35.594707) youTube=[])
+2019/08/09 21:09:17 INFO: #### HL　折りたたみ自転車用　シートポスト　アルミ　28.6×450mm.gmap
+2019/08/09 21:09:18 INFO:      MyMap(title=HL　折りたたみ自転車用　シートポスト　アルミ　28.6×450mm id=1K0yAfFS2d0Ew8S_4ey3rUjrY1MY description=[東成郵便局 2014/05/27 16:10, サイクルショップ　ＩＳＤ 2014/05/27, HL　折りたたみ自転車用　シートポスト　アルミ　28.6×450mm, 新東京郵便局 2014/05/28 04:41, 新大阪郵便局 2014/05/27 19:46] lonlat=(135.442071,34.667647)-(139.825079,35.660870) youTube=[])
+2019/08/09 21:09:18 INFO: #### JAXA、国立天文台 2010-04-18.gmap
+2019/08/09 21:09:18 INFO:      MyMap(title=JAXA、国立天文台 2010-04-18 id=1EKcK_rkhu3ymPCYmF7TBYdwKDsmE7H66 description=[JAXAスーパーコンピュータシステム 富士通　FX1 / 3008CPU / 94TBメモリ / 120TFLOPS, フロッピーディスク パソコンで普通に使用されたフロッピーディスクは、5インチと3.5インチのサイズですが、これは、木曾観測所のスーパーミニコンピュータで、1990年前後につかわれた8インチのフロッピーです。大きい割には320KBのデータしか記録できませんでした。, 2010/04/18 JAXA、国立天文台, 大型低速風洞3000KW送風機 昭和40年 三菱重工業株式会社 神戸造船所, 子午儀資料館  図書館  図書館, バンベルヒ子午儀 恒星の赤経と観測点の経度が分かっている時に、恒星の子午線通過時刻を観測する機械です。, JAXA、国立天文台 2010-04-18, 2m×2m 遷音速風洞 Transonic Wind Tunnel, ブリンクコンパレーター 時間をおいて同じ場所を撮影した2枚の写真乾板をすばやく交互に見くらべると、星空の中を移動する天体や変光する天体を簡単にみつけることができます。　国立天文台, 65cm屈折望遠鏡操作盤] lonlat=(139.525238,35.666916)-(139.649506,35.684708) youTube=[])
+2019/08/09 21:09:18 INFO: #### JR中央線 高尾へ歩き旅 _ 東京駅から市ヶ谷駅まで Part1 - 4K UHD.gmap
+2019/08/09 21:09:21 INFO:      MyMap(title=JR中央線 高尾へ歩き旅 _ 東京駅から市ヶ谷駅まで Part1 - 4K UHD id=102QPVz3XEwJN1vKYc1b2uS4DWG2owYdn description=[JR中央線 高尾へ歩き旅 | 東京駅から市ヶ谷駅まで Part1 - 4K UHD, https://www.youtube.com/embed/p38qB2yf1UQYouTube] lonlat=(139.735753,35.681522)-(139.771218,35.703128) youTube=[p38qB2yf1UQ])
+2019/08/09 21:09:21 INFO: #### mallorca sports center.gmap
+2019/08/09 21:09:22 INFO:      MyMap(title=mallorca sports center id=1RuLZs0d7YP9rbgJoCWstJjcBjwI description=[線 1, mallorca sports center] lonlat=(2.482183,39.518373)-(2.484589,39.519453) youTube=[])
+2019/08/09 21:09:22 INFO: #### Midway.gmap
+2019/08/09 21:09:22 INFO:      MyMap(title=Midway id=1ay7uLulRM1tCX5Pew3FFDy7oq18 description=[目印 1, Midway] lonlat=(-177.368431,28.217933)-(-177.368431,28.217933) youTube=[])
+2019/08/09 21:09:22 INFO: #### Morning walk 10.gmap
+2019/08/09 21:09:23 INFO:      MyMap(title=Morning walk 10 id=1xpTiW67VtsMWWtprl7sJ9IHEGkU description=[Morning walk 10, 目印 1] lonlat=(2.466838,39.513014)-(2.466838,39.513014) youTube=[])
+2019/08/09 21:09:23 INFO: #### Narrow path with stairs in Tokyo 2013-03-10.gmap
+2019/08/09 21:09:23 INFO:      MyMap(title=Narrow path with stairs in Tokyo 2013-03-10 id=1usfb3LUVflSMNpYAVz9c_Pd82yw description=[path, 動画 (http://youtu.be/l_W6svitb3U), Narrow path with stairs in Tokyo 2013-03-10] lonlat=(139.681900,35.690810)-(139.683340,35.692260) youTube=[l_W6svitb3U])
+2019/08/09 21:09:23 INFO: #### Rainbow Bridge Tokyo Japan 2013-6-8.gmap
+2019/08/09 21:09:24 INFO:      MyMap(title=Rainbow Bridge Tokyo Japan 2013-6-8 id=1PPIA4FEtuBgTtflcA3S1IIT3Wdw description=[動画 (http://youtu.be/WCLhVJtG2_k), Rainbow Bridge Tokyo Japan 2013-6-8] lonlat=(139.758608,35.637431)-(139.759499,35.638530) youTube=[WCLhVJtG2_k])
+2019/08/09 21:09:24 INFO: #### randam walk; school, institute (high school).gmap
+2019/08/09 21:09:24 INFO:      MyMap(title=randam walk; school, institute (high school) id=1eXWAavvX7vjiuhUlkx9nNa4_J-s description=[randam walk; school, institute (high school), 線 1, alex1234538282013/02/20] lonlat=(2.496298,39.521876)-(2.498778,39.525343) youTube=[])
+2019/08/09 21:09:24 INFO: #### random walk 2013_02_14.gmap
+2019/08/09 21:09:24 INFO:      MyMap(title=random walk 2013_02_14 id=19j3cRvBnWxKcL1cUHEV7VDAfFPg description=[la gran muralla china restaurante, 線 1, random walk 2013/02/14] lonlat=(2.479898,39.513866)-(2.483398,39.517903) youTube=[])
+2019/08/09 21:09:24 INFO: #### Random walk.gmap
+2019/08/09 21:09:25 INFO:      MyMap(title=Random walk id=150tH5NZSw33ALOmyn1kR4wAbWeo description=[doctor, 線 1, school, Random walk, church, post office, start, school, church, doctor, post office2013/2/11] lonlat=(2.487049,39.518262)-(2.488275,39.520714) youTube=[])
+2019/08/09 21:09:25 INFO: #### Random walk; urbanización galatzó.gmap
+2019/08/09 21:09:25 INFO:      MyMap(title=Random walk; urbanización galatzó id=12_CK1fuvpY5TWvW05JNuqEFkiBY description=[線 1, 2013/02/19, Random walk; urbanización galatzó] lonlat=(2.496749,39.524743)-(2.499242,39.526276) youTube=[])
+2019/08/09 21:09:25 INFO: #### revers.kmz.gmap
+2019/08/09 21:09:26 INFO:      MyMap(title=revers.kmz id=1DHfqQeiKQy1tKn2uQt8h_I1qMgQ description=[ひとみ公園, マンホールが繋がっている珍しい状態が見れます。, 動画 (http://youtu.be/jNFmKlWh6EM), なにやらアンテナに引っかかったうどん屋。今回の本来の目的地。, revers.kmz, 手押しポンプ, 最上流？, パス, たかはら支流（仮）, 家々の間を石で蓋をされた暗渠が南北に流れている。, かわいいよ。, 釣り堀周辺(1963年), 高円寺支流 たかはら支流, 桃園川, 詳しくはこちらで記事にしています。http://misomax.blogspot.com/2010/10/revenge-to-koenji-river.html, 橋の遺構！, おいしそう。, 阿佐ヶ谷川近辺(2012/05/15), 不思議と暗渠っぽい道, たかはら支流, 線 1, 家々の合間に見え隠れする、雨水などを流したであろう暗渠。, コインランドリー跡, たかはら支流（仮）上流部, たかはら支流。さまざまな表情を見せる暗渠らしい暗渠。, 謎の円い記述, 家と家の間に怪しいスペースがある。, 立ち食い蕎麦屋, 谷中湯のあった場所。銀色の近代的な煙突が目印。谷中湯もコインランドリーも閉店してしまった。, HDS型ドラゴン。カバーがかけられている。, 阿佐ヶ谷川支流, 謎の施設, 中野の北側の支流, 家々の間の不自然なスペースは、この謎の施設の脇まで続いている。, この辺に支流の支流があったはず。, 高円寺川（仮）, 支流の支流, 音羽川 動画, 音羽川経路, 民家と民家の間に、不自然なスペースがある。, たかはら公園, 石で蓋をされた暗渠, 小さいですが橋の遺構があります。すばらしい！, 猫がたくさんいるよ, 桃園川緑道, 明治後期から大正の地図に、この辺に不自然な丸い記述がある。池？, http://tokyoriver.exblog.jp/15636362/, 桃園川のたかはら支流（仮）, 謎のデッドスペース, さぬきや, おしくらマンホール, この付近は「谷」と呼ばれ、甲武鉄道施設工事用土を掘り出したところがあり、そこから湧水がおき、池ができたといわれている。その水が桃園川まで流れていたとのことが、「杉並の川と橋」に記述されている。, 阿佐ヶ谷川] lonlat=(139.629776,35.699425)-(139.732193,35.719864) youTube=[jNFmKlWh6EM])
+2019/08/09 21:09:26 INFO: #### Road with a well (2).gmap
+2019/08/09 21:09:26 INFO:      MyMap(title=Road with a well (2) id=1l7IXWar_MvPavZoKBbR2joMccQQ description=[動画 (http://youtu.be/mSTk3F4id-A), Road with a well (2)] lonlat=(139.683708,35.682185)-(139.684537,35.682823) youTube=[mSTk3F4id-A])
+2019/08/09 21:09:26 INFO: #### Road with a well (3).gmap
+2019/08/09 21:09:26 INFO:      MyMap(title=Road with a well (3) id=1VaRiuVJ93jNw0kYVvzamOIwSRbg description=[path, moviehttp://youtu.be/ZR-nQfExdBk, Road with a well (3)] lonlat=(139.729076,35.721021)-(139.729818,35.722319) youTube=[ZR-nQfExdBk])
+2019/08/09 21:09:26 INFO: #### Santa ponsa sunrise 23 july 2013 7_00.gmap
+2019/08/09 21:09:27 INFO:      MyMap(title=Santa ponsa sunrise 23 july 2013 7_00 id=1ZmtmfPiaSQpWUNpmOAWJHzoCkNs description=[Santa ponsa sunrise 23 july 2013 7:00, 目印 1, 目印 2] lonlat=(2.480593,39.507530)-(2.482824,39.509239) youTube=[])
+2019/08/09 21:09:27 INFO: #### Santa ponsa1_3random walk at night 17july201321_00.gmap
+2019/08/09 21:09:27 INFO:      MyMap(title=Santa ponsa1_3random walk at night 17july201321_00 id=1MC23zB_j3DxqBXOVL4A0-ptsOqY description=[Santa ponsa1/3random walk at night 17july201321:00, 目印 1] lonlat=(2.480673,39.513883)-(2.480673,39.513883) youTube=[])
+2019/08/09 21:09:27 INFO: #### santaPonsa17.march.2013.st patrick day.gmap
+2019/08/09 21:09:28 INFO:      MyMap(title=santaPonsa17.march.2013.st patrick day id=1bE9ulgi03z5UO2xXhivZRJsTW5A description=[santaPonsa17.march.2013.st patrick day, 目印 1] lonlat=(2.485431,39.517789)-(2.485431,39.517789) youTube=[])
+2019/08/09 21:09:28 INFO: #### santaPonsa9.00,14.04.2013.gmap
+2019/08/09 21:09:28 INFO:      MyMap(title=santaPonsa9.00,14.04.2013 id=1nRoKaof_EJ1RHHTE_o52GF5IHlw description=[線 1, 線 2, santaPonsa9.00,14.04.2013] lonlat=(2.478526,39.513320)-(2.480408,39.515385) youTube=[])
+2019/08/09 21:09:28 INFO: #### SONY Action CAM (HDR-AS15)　vs. Cyber Shot (DSC-TX55).gmap
+2019/08/09 21:09:31 INFO:      MyMap(title=SONY Action CAM (HDR-AS15)　vs. Cyber Shot (DSC-TX55) id=13IDKcFt34BmEhS6AlxV6hEx9Y64 description=[動画 (http://youtu.be/U_-Skbj2rRk), SONY Action CAM (HDR-AS15)　vs. Cyber Shot (DSC-TX55)] lonlat=(139.638247,35.683235)-(139.647464,35.689283) youTube=[U_-Skbj2rRk])
+2019/08/09 21:09:31 INFO: #### WomanEP01 _ たべるダケEP11.gmap
+2019/08/09 21:09:31 INFO:      MyMap(title=WomanEP01 _ たべるダケEP11 id=1rjtwf72GduJp0qiSMXqV3TSCxxg description=[日無坂 東京都文京区目白台一丁目, 目印 1, WomanEP01 / たべるダケEP11] lonlat=(139.717727,35.716657)-(139.717727,35.716657) youTube=[])
+2019/08/09 21:09:31 INFO: #### いもり川.gmap
+2019/08/09 21:09:32 INFO:      MyMap(title=いもり川 id=1bO3ief6kSkrh87OUhxS45-bb89Q description=[動画 (http://www.youtube.com/watch?v=Yj1uKVCeVlQ), 動画URLhttp://www.youtube.com/watch?v=Yj1uKVCeVlQ, ゴール地点（いもり階段）, https://www.youtube.com/embed/Yj1uKVCeVlQクリックして動画を再生, いもり川] lonlat=(139.715372,35.649559)-(139.716152,35.654977) youTube=[Yj1uKVCeVlQ])
+2019/08/09 21:09:32 INFO: #### お祭り男 池ポチャ祭り in オーストリア【1_3】.gmap
+2019/08/09 21:09:32 INFO:      MyMap(title=お祭り男 池ポチャ祭り in オーストリア【1_3】 id=1Je2-aDnpuzuALk6bqrKTrn4PDRI description=[YouTube (http://youtu.be/7DCkH4NnMM4?t=2m6s), お祭り男 池ポチャ祭り in オーストリア【1/3】, Stellate] lonlat=(139.739450,35.691666)-(139.739450,35.691666) youTube=[7DCkH4NnMM4])
+2019/08/09 21:09:32 INFO: #### きんぎょばち.gmap
+2019/08/09 21:09:32 INFO:      MyMap(title=きんぎょばち id=1p3icq2MvRSI6tZTUKqcaf0Yh1hk description=[マルアイボウリング, 橋の上から夕景を眺める, きんぎょばち, 線路の上に立つ, 伊野尾書店, 松井玲奈, 本屋でアルバイト, カレー半ラーメン, 目印 8, 松井玲奈が突然「カレー半ラーメン」などと言い出す。中華料理屋の店頭に掲げられたメニューを読んでいるらしい。, 目印 2, 目印 5, 最後の土手を転がる場所がよくわからない。] lonlat=(139.686849,35.698447)-(139.812119,35.751055) youTube=[])
+2019/08/09 21:09:32 INFO: #### たべるダケ 第1話.gmap
+2019/08/09 21:09:33 INFO:      MyMap(title=たべるダケ 第1話 id=1J-9ezB1mR5TvAGnkW5dZAhnQO34 description=[牛丼　三品, たべるダケ 第1話, 目印 1, 目印 2] lonlat=(139.718083,35.550607)-(139.769129,35.709326) youTube=[])
+2019/08/09 21:09:33 INFO: #### たべるダケ 第2話.gmap
+2019/08/09 21:09:33 INFO:      MyMap(title=たべるダケ 第2話 id=1EdeCWXAgk3HG9GRy-PB_DX-XOTo description=[たべるダケ 第2話, ヨシカミ] lonlat=(139.793778,35.712950)-(139.793778,35.712950) youTube=[])
+2019/08/09 21:09:33 INFO: #### もやさま　麻布の豆腐屋.gmap
+2019/08/09 21:09:33 INFO:      MyMap(title=もやさま　麻布の豆腐屋 id=18_vcR88mI6-iGcfr5eeh3C0kxAM description=[もやさま　麻布の豆腐屋, 目印 1] lonlat=(139.742266,35.656028)-(139.742266,35.656028) youTube=[])
+2019/08/09 21:09:33 INFO: #### アパートに両手を縛られた若い女性　病院搬送　東京・世田谷区.gmap
+2019/08/09 21:09:34 INFO:      MyMap(title=アパートに両手を縛られた若い女性　病院搬送　東京・世田谷区 id=14qvNMcg-NmQv2KmzeyxlTqcMTV8 description=[アパートに両手を縛られた若い女性　病院搬送　東京・世田谷区, 目印 1] lonlat=(139.662005,35.665802)-(139.662005,35.665802) youTube=[])
+2019/08/09 21:09:34 INFO: #### イッテQ チーズ転がり祭り in イタリア.gmap
+2019/08/09 21:09:34 INFO:      MyMap(title=イッテQ チーズ転がり祭り in イタリア id=19KFGO2WbGCeisykDEmEgNYxnf5U description=[イッテQ チーズ転がり祭り in イタリア, 線 1, ここは注意が必要だ, 目印 1] lonlat=(15.129590,38.015130)-(15.132001,38.016464) youTube=[])
+2019/08/09 21:09:34 INFO: #### ガリレオ第2シーズン第2回　門松ベーカリー.gmap
+2019/08/09 21:09:34 INFO:      MyMap(title=ガリレオ第2シーズン第2回　門松ベーカリー id=1EvoTttZKQ4Q7ifKrSnUPD5xgAr4 description=[目印 1, ガリレオ第2シーズン第2回　門松ベーカリー] lonlat=(139.702315,35.568626)-(139.702315,35.568626) youTube=[])
+2019/08/09 21:09:34 INFO: #### ガリレオ第2シーズン第2章.gmap
+2019/08/09 21:09:35 INFO:      MyMap(title=ガリレオ第2シーズン第2章 id=1w-m1HBE5FQj_qdoSxrhhDdbISxY description=[ガリレオ第2シーズン第2章, 目印 1, 目印 3, 目印 2, 真瀬加奈子の自宅] lonlat=(139.685937,35.597595)-(139.697278,35.599553) youTube=[])
+2019/08/09 21:09:35 INFO: #### タガーリン#7.gmap
+2019/08/09 21:09:35 INFO:      MyMap(title=タガーリン#7 id=1fJarJTex9CqGBzKstuaK2JR7En8 description=[タガーリン#7, 柏木由紀の乗った車が坂道をバックで下る。, 目印 1] lonlat=(139.547911,35.566800)-(139.547911,35.566800) youTube=[])
+2019/08/09 21:09:35 INFO: #### タモリ倶楽部 2011_10_01.gmap
+2019/08/09 21:09:36 INFO:      MyMap(title=タモリ倶楽部 2011_10_01 id=1d8HUsMxUtC5BgiyIVDOxGFkxOB0 description=[いもり川の近く, タモリ倶楽部 2011/10/01, 渋谷区と港区の区界, 新宿区、渋谷区、中野区の区界, 旧笹塚川（暗渠）, 新宿区と渋谷区の区界, 元牛込区、元四谷区、元淀橋区の区界, 新宿区と文京区の区境, 新宿区と港区の区界, 新宿区と渋谷区の区界が暗渠から離れるところ] lonlat=(139.683730,35.658604)-(139.731615,35.708318) youTube=[])
+2019/08/09 21:09:36 INFO: #### タモリ倶楽部 2013-5-13 奈良・平安時代の東京古道を行く？！.gmap
+2019/08/09 21:09:36 INFO:      MyMap(title=タモリ倶楽部 2013-5-13 奈良・平安時代の東京古道を行く？！ id=14BKs0-KE2t-nZrTo-ZcibTVGZzs description=[高千穂大学を過ぎた後に写る場所, 人見街道の終点あたりで左下に小さく映る道, 成田東１丁目４０人見街道からはかなり外れている。, 「は」の右上に穴があいていいて「ば」のように見えるだけ。, タモリ倶楽部 2013-5-13 奈良・平安時代の東京古道を行く？！, タモリが博多弁で書いてあると言っていた看板] lonlat=(139.595284,35.686830)-(139.640774,35.691269) youTube=[])
+2019/08/09 21:09:36 INFO: #### タモリ倶楽部 2014.8.1 マルハニチロ 東京開発センター.gmap
+2019/08/09 21:09:36 INFO:      MyMap(title=タモリ倶楽部 2014.8.1 マルハニチロ 東京開発センター id=11aiXBkIAfMCfrl02aiZFglcMmuo description=[タモリ倶楽部 2014.8.1 マルハニチロ 東京開発センター, ポイント 1] lonlat=(139.717587,35.551930)-(139.717587,35.551930) youTube=[])
+2019/08/09 21:09:36 INFO: #### タモリ倶楽部　中野　行止.gmap
+2019/08/09 21:09:37 INFO:      MyMap(title=タモリ倶楽部　中野　行止 id=1o7zfRBjebPlZqWROUDDNkH0KcOo description=[タモリ倶楽部　中野　行止, 線 1] lonlat=(139.660944,35.706007)-(139.661958,35.706332) youTube=[])
+2019/08/09 21:09:37 INFO: #### タモリ倶楽部　松たか子空耳.gmap
+2019/08/09 21:09:37 INFO:      MyMap(title=タモリ倶楽部　松たか子空耳 id=1L8up78S4tQjd7yMujU9IfE0pBf8 description=[目印 1, タモリ倶楽部　松たか子空耳] lonlat=(139.726503,35.656455)-(139.726503,35.656455) youTube=[])
+2019/08/09 21:09:37 INFO: #### タモリ倶楽部　空耳アワード　2013.gmap
+2019/08/09 21:09:38 INFO:      MyMap(title=タモリ倶楽部　空耳アワード　2013 id=1I_0swY7ocx6MIrLekUrVCVrSo0I description=[タモリ倶楽部　空耳アワード　2013, おっぱいの周囲を揉むから] lonlat=(139.709758,35.714401)-(139.709758,35.714401) youTube=[])
+2019/08/09 21:09:38 INFO: #### タンクトップファイター.gmap
+2019/08/09 21:09:38 INFO:      MyMap(title=タンクトップファイター id=1ILK6IHPSra6d3kAgV9pLpLyPQO8 description=[＃２, ＃１, タンクトップファイター, ＃２　格闘, ＃１　大連, ＃２　青柳　天狗だんご, ＃２　グルンハイム] lonlat=(139.659793,35.657133)-(139.669822,35.663071) youTube=[])
+2019/08/09 21:09:38 INFO: #### チカラめしリポート１(前編下ネタ注意).gmap
+2019/08/09 21:09:41 INFO:      MyMap(title=チカラめしリポート１(前編下ネタ注意) id=1sURJaAWAp8vylWQys3Px27LBZqw description=[線 1, チカラめしリポート１(前編下ネタ注意), https://youtu.be/lZgFJCC0Oiw] lonlat=(139.593025,35.703463)-(139.600085,35.704587) youTube=[lZgFJCC0Oiw])
+2019/08/09 21:09:41 INFO: #### チンさむ.gmap
+2019/08/09 21:09:41 INFO:      MyMap(title=チンさむ id=1XyjErLncYJsg6ltapNy_GSUhjl0 description=[六本木, チンさむ, 三鷹, 旗の台] lonlat=(139.573011,35.607330)-(139.733541,35.676385) youTube=[])
+2019/08/09 21:09:41 INFO: #### ブラタモリ　中野編.gmap
+2019/08/09 21:09:42 INFO:      MyMap(title=ブラタモリ　中野編 id=1Z4FJChPb4GofzmQptNN_2Fc1QZs description=[ブラタモリ　中野編, 桃園, 『江戸名所図会　4巻』より「桃園　春興」 (http://www.library.metro.tokyo.jp/Portals/0/edo/tokyo_library/modal/index.html?d=217), 近藤クリニック, 囲桃園公園, 蔡菜食堂 （サイサイショクドウ）, お犬様の井戸, 日本救助犬協会, 桃園会館, 朝日が丘公園(ゾウ), 孤独のグルメ2017お正月スペシャル・井之頭五郎の長い一日「東京都中野のレバにら炒めと 千葉県津田沼のリブステーキ」登場店舗！～レバにら炒め編, 桃園川にかかる橋, 吉宗に献上されたベトナムから来たゾウが、農民に払い下げになった場所。長崎から江戸へ２ヶ月かけて苦労して運ばれた。, 後半の経路, 稲荷橋] lonlat=(139.659796,35.694831)-(139.681082,35.707676) youTube=[])
+2019/08/09 21:09:42 INFO: #### ブラタモリ豊洲（市場）編.gmap
+2019/08/09 21:09:42 INFO:      MyMap(title=ブラタモリ豊洲（市場）編 id=1lqOZQTzj2meu-6gp-AT_AC3OOBzdoJWg description=[http://ktgis.net/kjmapw/kjmapw.html?lat=35.652774&lng=139.794170&zoom=18&dataset=tokyo50&age=10&screen=2&scr1tile=k_nlii1&scr2tile=hillshademap&scr3tile=k_cj4&scr4tile=k_cj4&mapOpacity=10&overGSItile=no&altitudeOpacity=2, 豊洲駅周辺には、埋立地にも関わらず、坂道があります。http://service-news.tokyo/buratamori-toyosu-19425, 鉄道専用の橋があった所, 深川線１, 豊洲駅周辺の坂道, 橋脚が残っている。, 盛り上がっている所の南側, 盛り上がっている所の北側, 深川線２, 1974-1978の航空写真, 豊洲公園の産業遺構モニュメント, 緩やかな坂道, ブラタモリ豊洲（市場）編, 古い塀のようなもの, 分岐点跡地, 盛り上がっている所, 豊洲, 北側には盛り上がった高さに消防署がある, 線路] lonlat=(139.789783,35.650483)-(139.799611,35.658843) youTube=[])
+2019/08/09 21:09:42 INFO: #### マジすか学園.gmap
+2019/08/09 21:09:42 INFO:      MyMap(title=マジすか学園 id=1X5Tn-EtFxiFZYpkLmOydBjKJsc8 description=[#3, #6, マジすか学園] lonlat=(139.577479,35.632099)-(139.665901,35.702152) youTube=[])
+2019/08/09 21:09:42 INFO: #### マジすか学園２.gmap
+2019/08/09 21:09:43 INFO:      MyMap(title=マジすか学園２ id=1Oc9I4rc3E82IY3WNN72O1ECL0MA description=[サドと鳥小屋, 第6話　尺（峰岸みなみ）が歩いていたところ, 喧嘩をふっかけたチームアンダー全員を返り討ちヤバ女のジャンケンとのタイマンで引き分けた, マジすか学園２, 第8話] lonlat=(139.547020,35.663446)-(139.759777,35.703769) youTube=[])
+2019/08/09 21:09:43 INFO: #### モヤさま千歳烏山.gmap
+2019/08/09 21:09:43 INFO:      MyMap(title=モヤさま千歳烏山 id=128W7Zz1AXf_28a_TNG31s7dHzIk description=[モヤさま千歳烏山, にわとり] lonlat=(139.604017,35.663867)-(139.604017,35.663867) youTube=[])
+2019/08/09 21:09:43 INFO: #### モヤさま大森.gmap
+2019/08/09 21:09:44 INFO:      MyMap(title=モヤさま大森 id=15VWmmKycIIPZxEgL1ZPMPQrf4WI description=[大森貝塚遺跡, 石村屋 三味線タバコ, モヤさま大森, ねじの専門店 鈴徳, 旭光堂眼鏡店, つなしま食品 弁当, マーボ麺, 川島屋 サッカーボール海苔, ガード下, 丸都ユニホーム] lonlat=(139.716504,35.575263)-(139.736899,35.593095) youTube=[])
+2019/08/09 21:09:44 INFO: #### モヤさま用賀.gmap
+2019/08/09 21:09:44 INFO:      MyMap(title=モヤさま用賀 id=1tWQjz_dR_z8ezE3HJMMIXp3KfLc description=[モヤさま用賀, ミリ飯, 目印 1] lonlat=(139.634128,35.627608)-(139.636762,35.627748) youTube=[])
+2019/08/09 21:09:44 INFO: #### 三田用水 2010-04-11.gmap
+2019/08/09 21:09:44 INFO:      MyMap(title=三田用水 2010-04-11 id=1Xzp6AAHgWphjSU0n90ypYf57G1uBV8aG description=[三田用水 2010-04-11, 2010/04/11 三田用水] lonlat=(139.663025,35.622955)-(139.738342,35.689362) youTube=[])
+2019/08/09 21:09:44 INFO: #### 三田用水 2010-05-08.gmap
+2019/08/09 21:09:45 INFO:      MyMap(title=三田用水 2010-05-08 id=1egXP9LXPHY2RSX_ahw5m9Yg0gJYNtY7K description=[三田用水 2010-05-08, 歩道に不思議な階段, 三田用水の後に建てられた２軒の家の間の道  三田用水の跡に建てられた2軒の家の間の道  三田用水跡に建てられた家, 歩道脇に水路のようなものがある, 四万年坂, 2010/05/08 三田用水, 三田用水 玉川上水からの分水場所。水路左の階段が三田用水の開始点だったところ。, 三田用水跡の駐車場 なぜか盛り上がっている。, 井の頭通り, 防衛研究所 艦艇装備研究所, 三田用水 かつてはここが水路だったと思われる。] lonlat=(139.667648,35.632736)-(139.729446,35.672112) youTube=[])
+2019/08/09 21:09:45 INFO: #### 三田用水.gmap
+2019/08/09 21:09:45 INFO:      MyMap(title=三田用水 id=1aQxezs1_Yicn9fLlGDI3HiP_er1rlRsp description=[寛文4(1664)年開設 	享保7(1722)年廃止後安永3(1724)年三田用水として復活http://deepazabu.blogspot.jp/2013/07/blog-post_22.htmlhttps://mizbering.jp/archives/17779, 三田用水, 山下口分水路, 取水口, https://www.youtube.com/embed/JnYh0Ixtd3Qhttps://www.youtube.com/embed/QCV-V3ebkSg] lonlat=(139.668632,35.666541)-(139.672000,35.671596) youTube=[JnYh0Ixtd3Q, QCV-V3ebkSg])
+2019/08/09 21:09:45 INFO: #### 上林暁.gmap
+2019/08/09 21:09:45 INFO:      MyMap(title=上林暁 id=1ZRvcmjqATjfGsIjgxb0QM_IGDIY description=[上林暁] lonlat=(139.628862,35.708614)-(139.628862,35.708614) youTube=[])
+2019/08/09 21:09:45 INFO: #### 上野 2014-06-02.gmap
+2019/08/09 21:09:46 INFO:      MyMap(title=上野 2014-06-02 id=1747OfizlQJLhqdhspwdM0jr-u6E description=[往路, 上野 2014-06-02, 復路] lonlat=(139.656308,35.680028)-(139.775555,35.720699) youTube=[])
+2019/08/09 21:09:46 INFO: #### 中野通りまで Android GPSLogger 2019-07-12.gmap
+2019/08/09 21:09:46 INFO:      MyMap(title=中野通りまで Android GPSLogger 2019-07-12 id=1gWmvxuj9-Xm54_KeV1irz00GlzqP9MTH description=[Android GPSLoggerで作成, 中野通りまで Android GPSLogger 2019-07-12, 2019-07-11T10:18:35.000Z] lonlat=(139.654245,35.680218)-(139.667766,35.695384) youTube=[])
+2019/08/09 21:09:46 INFO: #### 久が原台迂回コース 2010-05-05.gmap
+2019/08/09 21:09:47 INFO:      MyMap(title=久が原台迂回コース 2010-05-05 id=1W_TwcBhQla_5St25LVS3gJRzazEqpgQg description=[2010/05/05 久が原台迂回コース, 久が原台迂回コース 2010-05-05] lonlat=(139.658569,35.551407)-(139.700455,35.676888) youTube=[])
+2019/08/09 21:09:47 INFO: #### 九品仏川 2010-05-02.gmap
+2019/08/09 21:09:47 INFO:      MyMap(title=九品仏川 2010-05-02 id=1soyXVQktvWrNWRG1nJHmqgKNc9vGm7s2 description=[工大橋から呑川下流, 九品仏川緑道起点にあるねこじゃらし公園, 工大橋から九品仏川上流, 九品仏川 2010-05-02, 2010/05/02 九品仏川, 九品仏川起点, 九品仏川自由が丘] lonlat=(139.655045,35.605377)-(139.680176,35.665672) youTube=[])
+2019/08/09 21:09:47 INFO: #### 二ヶ領用水 2011-08-20.gmap
+2019/08/09 21:09:47 INFO:      MyMap(title=二ヶ領用水 2011-08-20 id=1uu0LHO8Y9rY4oAccon6jlOFWX4lwQyf_ description=[このあたりの二ゖ領用水は浅くて幅も狭い。平らな所を流れる普通の川であれば、増水時は周辺が水浸しになるだろうｌ。答えは上流にある円筒分水にあるらしい。, さらにその外側にある直径16m円筒の円周を4本の堀それぞれの灌漑面積に合わせた比率の長さ（川崎堀38.471m、六ヶ村堀2.702 m、久地堀1.675 m、根方堀7.415 m）により仕切って越流落下させることにより、流量が変化しても、各堀に一定の比率で分水されるようになった。当時としては、最も理想的かつ正確な自然分水装置の一つであり、その技術は、戦後に円筒分水を視察に訪れたGHQの農業土木技師により、アメリカにも紹介されたといわれている。   たぶん左が六ヶ村堀2.702 m、右が久地堀1.675 m。正確に分水するためには円筒の上面が水平である必要がある。, 二ヶ領用水は大半がここで多摩川に行ってしまうようだ。, 毎週通っていたのはこのあたりか？  向ヶ丘遊園の後には、藤子・F・不二雄ミュージアムがオープンするらしい。今年の9月3日だ。, 階段下りてもどこにもいけないと思うけど。, 二ヶ領用水 2011-08-20, 2011/08/20 二ヶ領用水] lonlat=(139.564194,35.581951)-(139.650314,35.665756) youTube=[])
+2019/08/09 21:09:47 INFO: #### 京浜大橋の下を歩く  2011-09-17.gmap
+2019/08/09 21:09:48 INFO:      MyMap(title=京浜大橋の下を歩く  2011-09-17 id=1g3JsY3ezrUj5DzVDkrDS_IZ-KCU description=[https://www.youtube.com/embed/WYC2jbAzkf0クリックして動画を再生, GoogleMapでも階段が描かれています。, 京浜大橋の下を歩く  2011-09-17, 以前来た時もそうでしたが、ここには住人がいます。あまり踏み込まないようにしました。] lonlat=(139.757818,35.574035)-(139.758668,35.574451) youTube=[WYC2jbAzkf0])
+2019/08/09 21:09:48 INFO: #### 代々木上原 底抜け田んぼ 2011-04-29.gmap
+2019/08/09 21:09:51 INFO:      MyMap(title=代々木上原 底抜け田んぼ 2011-04-29 id=1a2qJzsodFD-YbFVupxYYmIeqQV5ZegZf description=[底抜け田んぼ 中央の谷あたりに「底抜け田んぼ」があったらしい。井の頭通り（東西に走る黄色い直線）と小田急線を抜けて北側へ川が流れていたようだ。, 代々木上原 底抜け田んぼ 2011-04-29, 高架は小田急線、左右は井の頭通り ここは盛り上がっているが、昔は橋ではなかったか。, 渋谷区富ヶ谷一丁目, 2011/04/29 底抜け田んぼ, 上原中学校  選挙ポスターの前あたりが一番低い かつては水田として利用されていたものが、耕作が行われなくなって、池のような「底抜け田んぼ」となっていたようだ。, 正面は小田急線で行き止まり。かつては線路の下を川が流れていたのではないか。, 上原３－４１, 代々木八幡駅の西側] lonlat=(139.670319,35.666386)-(139.690704,35.670708) youTube=[])
+2019/08/09 21:09:51 INFO: #### 代々木川 渋谷川 古川 田町 2010-04-25.gmap
+2019/08/09 21:09:51 INFO:      MyMap(title=代々木川 渋谷川 古川 田町 2010-04-25 id=1EpUP74C1R1bz73ToAdk-AFEoyvVa7dBW description=[代々木川 渋谷川 古川 田町 2010-04-25, 千駄ヶ谷3-11, 2010/04/25 代々木川, 代々木郵便局] lonlat=(139.668747,35.644913)-(139.759232,35.687550) youTube=[])
+2019/08/09 21:09:51 INFO: #### 僕だけがいない街.gmap
+2019/08/09 21:09:52 INFO:      MyMap(title=僕だけがいない街 id=1xIRv5jfD4Y8u69S4qOCpwAznNBA description=[Oasi Pizza, 僕だけがいない街, 最初の事故現場, 笠間市商工会→船橋市商工会CGでビルを足している] lonlat=(139.874558,35.663071)-(140.250397,36.380514) youTube=[])
+2019/08/09 21:09:52 INFO: #### 初台川 2010-05-04.gmap
+2019/08/09 21:09:52 INFO:      MyMap(title=初台川 2010-05-04 id=19sKVQ5qd5cRJSj-aCC1-zmamA0bd1GS1 description=[初台川 2010-05-04, 2010/05/04 初台川] lonlat=(139.681656,35.674229)-(139.687256,35.680134) youTube=[])
+2019/08/09 21:09:52 INFO: #### 初台川.gmap
+2019/08/09 21:09:53 INFO:      MyMap(title=初台川 id=1SD71wxZQ9mB380ZOGsulX_3GSDc description=[開始, 2012年3月4日, 初台川, 動画 (http://youtu.be/TZ691ApNrqI)初台川の源流 (http://youtu.be/ARPIbHHe3Dg), 終了, 動画 (http://youtu.be/TZ691ApNrqI)] lonlat=(139.682688,35.673970)-(139.687416,35.677181) youTube=[TZ691ApNrqI, ARPIbHHe3Dg])
+2019/08/09 21:09:53 INFO: #### 北沢分水 桜上水取水路.gmap
+2019/08/09 21:09:53 INFO:      MyMap(title=北沢分水 桜上水取水路 id=1TK8_ug5nhLktGMK6HDVEartnp2FuGiQA description=[分水路入口, 北沢分水 桜上水取水路, https://www.youtube.com/embed/bFtmdX1L-GU] lonlat=(139.633609,35.669956)-(139.633609,35.669956) youTube=[bFtmdX1L-GU])
+2019/08/09 21:09:53 INFO: #### 北沢川支流群 2010-05-04.gmap
+2019/08/09 21:09:54 INFO:      MyMap(title=北沢川支流群 2010-05-04 id=13cn_OqvsrQ1Rr6QXSo2Tb41Yxyqi5w0H description=[北沢川支流群 2010-05-04, 2010/05/04 北沢川支流群] lonlat=(139.626617,35.653381)-(139.657761,35.679634) youTube=[])
+2019/08/09 21:09:54 INFO: #### 千鳥ヶ淵の桜を北の丸公園から望む 2013-03-26.gmap
+2019/08/09 21:09:54 INFO:      MyMap(title=千鳥ヶ淵の桜を北の丸公園から望む 2013-03-26 id=1AUnGcfTsOI5QVS3vq8aMP5eB2Wo description=[Path, 千鳥ヶ淵の桜を北の丸公園から望む 2013-03-26, Video (http://youtu.be/f0-5UdoCcLs)] lonlat=(139.748140,35.690350)-(139.749637,35.692115) youTube=[f0-5UdoCcLs])
+2019/08/09 21:09:54 INFO: #### 台風15号 神田川取水施設 2011年9月21日 17時29分 環状七号線.gmap
+2019/08/09 21:09:55 INFO:      MyMap(title=台風15号 神田川取水施設 2011年9月21日 17時29分 環状七号線 id=1noDDsbtWa-2M5ERvp6IwDh9vdPw description=[撮影場所, http://g.co/maps/4ey3p, 動画 (http://www.youtube.com/watch?v=frrzqAf2D7g), 台風15号 神田川取水施設 2011年9月21日 17時29分 環状七号線] lonlat=(139.657667,35.680387)-(139.657667,35.680387) youTube=[frrzqAf2D7g])
+2019/08/09 21:09:55 INFO: #### 向田茉夏の橋、須田亜香里の橋.gmap
+2019/08/09 21:09:56 INFO:      MyMap(title=向田茉夏の橋、須田亜香里の橋 id=1P7C1e2N-eW7m2nfaR00Qr7VY5kE description=[だーすーの橋, 茉夏の橋, 向田茉夏の橋、須田亜香里の橋] lonlat=(136.942778,35.128763)-(136.944033,35.131518) youTube=[])
+2019/08/09 21:09:56 INFO: #### 吞川の支流.gmap
+2019/08/09 21:09:56 INFO:      MyMap(title=吞川の支流 id=14wIxS0mkw-mls-lN_Xddq5N5gtM description=[線 1, 吞川の支流] lonlat=(139.691130,35.589970)-(139.696902,35.599575) youTube=[])
+2019/08/09 21:09:56 INFO: #### 呑川 柿の木坂支流 代々木川 2010-05-02.gmap
+2019/08/09 21:09:56 INFO:      MyMap(title=呑川 柿の木坂支流 代々木川 2010-05-02 id=1cV76Lcvo3kUZOwTG4dqY5dgewsA9IAuC description=[呑川 柿の木坂支流 代々木川 2010-05-02, 2010/05/02 呑川柿木坂支流] lonlat=(139.659927,35.616306)-(139.702591,35.685841) youTube=[])
+2019/08/09 21:09:56 INFO: #### 呑川近くの六郷用水 2011-09-17.gmap
+2019/08/09 21:09:57 INFO:      MyMap(title=呑川近くの六郷用水 2011-09-17 id=1z9JNPnzihYhZEAk4viqatikLGSTGNs5E description=[2011/09/17 呑川近くの六郷用水, 堤方橋, 呑川近くの六郷用水 2011-09-17] lonlat=(139.705048,35.574547)-(139.710159,35.575176) youTube=[])
+2019/08/09 21:09:57 INFO: #### 呑川近くの六郷用水.gmap
+2019/08/09 21:09:57 INFO:      MyMap(title=呑川近くの六郷用水 id=170XAtkrkqK_cojkgDohHm5VcaFI description=[堤方橋, 呑川近くの六郷用水] lonlat=(139.705045,35.574547)-(139.710152,35.575176) youTube=[])
+2019/08/09 21:09:57 INFO: #### 善福寺川 2011- 04-24.gmap
+2019/08/09 21:09:58 INFO:      MyMap(title=善福寺川 2011- 04-24 id=1oB2UVc1UCSxo3jW-yBJcpSIuKX_SRBUS description=[Outdoor programming, 善福寺川 2011- 04-24, 2011/04/24 善福寺川] lonlat=(139.600113,35.684914)-(139.646622,35.695549) youTube=[])
+2019/08/09 21:09:58 INFO: #### 善福寺川 台風一過.gmap
+2019/08/09 21:09:58 INFO:      MyMap(title=善福寺川 台風一過 id=1WeeT-CD4dcwrz2h4RUwGBYS899w description=[シーン１, 善福寺川 台風一過, 動画 (http://www.youtube.com/watch?v=Te9l09hBDlQ#t=1m15s), 動画 (http://www.youtube.com/watch?v=Te9l09hBDlQ#t=2m27s), シーン３, 動画 (http://www.youtube.com/watch?v=Te9l09hBDlQ), シーン２, http://www.youtube.com/watch?v=Te9l09hBDlQ] lonlat=(139.597628,35.683621)-(139.639956,35.709853) youTube=[Te9l09hBDlQ])
+2019/08/09 21:09:58 INFO: #### 善福寺川の桜 2013-03-23.gmap
+2019/08/09 21:10:01 INFO:      MyMap(title=善福寺川の桜 2013-03-23 id=13Iz_4iPI9LHepcf3RbxDEjbxLew description=[善福寺川の桜 2013-03-23, YouTube (http://youtu.be/NTfiZVw1lXE)] lonlat=(139.630845,35.691940)-(139.634080,35.695367) youTube=[NTfiZVw1lXE])
+2019/08/09 21:10:01 INFO: #### 善福寺川の桜.gmap
+2019/08/09 21:10:01 INFO:      MyMap(title=善福寺川の桜 id=1x0ggkMUjtAOfboceDMCQx_wmqYQ description=[善福寺川の桜, 動画 (http://youtu.be/WHdhaY4GKHs)] lonlat=(139.629364,35.691949)-(139.634053,35.695373) youTube=[WHdhaY4GKHs])
+2019/08/09 21:10:01 INFO: #### 善福寺川の近く 2011-06-19.gmap
+2019/08/09 21:10:02 INFO:      MyMap(title=善福寺川の近く 2011-06-19 id=127fbu78c7IbKg5nmDuUZRC6_WII description=[善福寺川の近く 2011-06-19, https://www.youtube.com/embed/3bKPytWbu3kクリックして動画を再生, 動画http://www.youtube.com/watch?v=3bKPytWbu3k, 動画 (http://www.youtube.com/watch?v=3bKPytWbu3k)] lonlat=(139.639615,35.684716)-(139.649416,35.696715) youTube=[3bKPytWbu3k])
+2019/08/09 21:10:02 INFO: #### 善福寺川の近く２.gmap
+2019/08/09 21:10:02 INFO:      MyMap(title=善福寺川の近く２ id=1H6mPT5BV3eucIHFojtwDQKdOJnc description=[善福寺川の近く２, 線 1, ここを走った動画はhttp://youtu.be/MHSrmhte1l8にあります。, 動画を再生 (http://youtu.be/MHSrmhte1l8)] lonlat=(139.651873,35.685011)-(139.653662,35.685747) youTube=[MHSrmhte1l8])
+2019/08/09 21:10:02 INFO: #### 善福寺川支流.gmap
+2019/08/09 21:10:02 INFO:      MyMap(title=善福寺川支流 id=1GBPGvzgDHrZu2cFrZkxlS9fWvfA description=[善福寺川支流, 大きな支流] lonlat=(139.612378,35.690496)-(139.622656,35.697242) youTube=[])
+2019/08/09 21:10:02 INFO: #### 善福寺川松の木支流 2010-10-24.gmap
+2019/08/09 21:10:03 INFO:      MyMap(title=善福寺川松の木支流 2010-10-24 id=18z0Ju2H0GxFEJUDQw5_AlbbqyVyN016x description=[善福寺川松の木支流 2010-10-24, 2010/10/24 善福寺川松の木支流] lonlat=(139.644180,35.688358)-(139.650909,35.694180) youTube=[])
+2019/08/09 21:10:03 INFO: #### 国分寺崖線 2010-05-01.gmap
+2019/08/09 21:10:03 INFO:      MyMap(title=国分寺崖線 2010-05-01 id=1p9U3DzTy7VQ983BFTC3NMUkxASziTvIX description=[国分寺崖線 2010-05-01, 2010/05/01 国分寺崖線, きよみづばし 命名 平成十五年三月六日 明正小学校生徒, 成城学園から野川方面, 関東の富士見100景 富士山の見えるまちづくり　地点名 東京富士見坂 平成16年11月 国土交通省関東地方整備局 寄贈(社)関東建設弘済会] lonlat=(139.599014,35.599552)-(139.648514,35.673767) youTube=[])
+2019/08/09 21:10:03 INFO: #### 国立新美術館 六本木 2010-07-19.gmap
+2019/08/09 21:10:04 INFO:      MyMap(title=国立新美術館 六本木 2010-07-19 id=14l3beaX7h6F5JiTcAquKi4wlfSgJHUD4 description=[2010/07/19 国立新美術館, 国立新美術館 六本木 2010-07-19] lonlat=(139.660034,35.662495)-(139.731812,35.687271) youTube=[])
+2019/08/09 21:10:04 INFO: #### 塚山公園から始まる暗渠.gmap
+2019/08/09 21:10:04 INFO:      MyMap(title=塚山公園から始まる暗渠 id=1Bz-A-WCVHIvbCEfGOQLjY8PzRM55XcJL description=[暗渠, 塚山公園から始まる暗渠] lonlat=(139.625899,35.669579)-(139.639878,35.675801) youTube=[])
+2019/08/09 21:10:04 INFO: #### 多摩川から羽村 2009-12-23.gmap
+2019/08/09 21:10:04 INFO:      MyMap(title=多摩川から羽村 2009-12-23 id=1HKpZ__SLqsLEh94Y0jNaVUjyzF-nDcd3 description=[多摩川から羽村 2009-12-23, 2009/12/23 多摩川から羽村] lonlat=(139.308899,35.620548)-(139.650864,35.755364) youTube=[])
+2019/08/09 21:10:04 INFO: #### 多摩湖 2009-09-20.gmap
+2019/08/09 21:10:05 INFO:      MyMap(title=多摩湖 2009-09-20 id=1YvBZIiIB98hEexXZi_2Cfc2BUaheqBlC description=[2009/09/20 多摩湖, 多摩湖 2009-09-20] lonlat=(139.392075,35.669750)-(139.651199,35.784065) youTube=[])
+2019/08/09 21:10:05 INFO: #### 多摩湖 狭山湖 六道山公園 2011-08-08.gmap
+2019/08/09 21:10:05 INFO:      MyMap(title=多摩湖 狭山湖 六道山公園 2011-08-08 id=1Gqik12LvbCokr3HExJmO1vaF_CAw08Z8 description=[2011/08/08 六道山公園, 多摩湖 狭山湖 六道山公園 2011-08-08] lonlat=(139.363602,35.671742)-(139.631180,35.785278) youTube=[])
+2019/08/09 21:10:05 INFO: #### 多摩湖の桜 2011-04-09.gmap
+2019/08/09 21:10:05 INFO:      MyMap(title=多摩湖の桜 2011-04-09 id=1Z6OnzhDI2VHO3WhBrYSPNLXmVEBmUujh description=[JR送電線注意, 多摩湖の桜 2011-04-09, 2011/04/09 多摩湖] lonlat=(139.439240,35.669716)-(139.648621,35.765991) youTube=[])
+2019/08/09 21:10:05 INFO: #### 夜行観覧車.gmap
+2019/08/09 21:10:06 INFO:      MyMap(title=夜行観覧車 id=1YQYYMr3E-0Yb63qlLXeDGQecDlE description=[夜行観覧車, 目印 1] lonlat=(139.608089,35.256641)-(139.608089,35.256641) youTube=[])
+2019/08/09 21:10:06 INFO: #### 夢売るふたり.gmap
+2019/08/09 21:10:06 INFO:      MyMap(title=夢売るふたり id=1BpbPrBmHaJesbrJDZwO1kPOwdxk description=[夢売るふたり, 31:17, 28:17 松たか子 自転車, 54:35 中華料理太陽] lonlat=(139.657989,35.670269)-(139.792829,35.718316) youTube=[])
+2019/08/09 21:10:06 INFO: #### 大都会 第１話 妹.gmap
+2019/08/09 21:10:07 INFO:      MyMap(title=大都会 第１話 妹 id=1fWx55jpbDlky1ErM-BhCNfpSYgs description=[電通恒産第２ビル, 小沼三吉（石橋蓮司）が捕まるところ。, 本氷川坂（もとひかわざか）, 中川元子（水沢アキ）が務める会社。電通恒産第２ビルの屋上でも撮影している。, 大都会 第１話 妹] lonlat=(139.734716,35.669003)-(139.770840,35.669907) youTube=[])
+2019/08/09 21:10:07 INFO: #### 大都会 第２話 直子.gmap
+2019/08/09 21:10:07 INFO:      MyMap(title=大都会 第２話 直子 id=19PfkZle0uNzXrtIJ7b_cx_SxxyA description=[宝来湯, 銭湯はないが、「ホーライ」の名前が残っている。質屋「こんや」の看板も電柱に残っている。ガードの上限も４．９Mのまま。電柱の住所表示「上目黒２－４２」が映りこんでいた。, 大都会 第２話 直子] lonlat=(139.694523,35.640681)-(139.694523,35.640681) youTube=[])
+2019/08/09 21:10:07 INFO: #### 天気の子 (2019).gmap
+2019/08/09 21:10:07 INFO:      MyMap(title=天気の子 (2019) id=1pHUONbuyr9Mj5Kldt_TYadDnlf2INuIK description=[2019-07-26, 絶対違うと思う。https://motsuhiro.hatenablog.com/entry/WeatheringWithYou_tokyd1https://www.ouchiquest.com/entry/tenkinoko-seichijyunrei#%E9%A0%88%E8%B3%80%E3%81%AE%E4%BA%8B%E5%8B%99%E6%89%80-KA%E3%83%97%E3%83%A9%E3%83%B3%E3%83%8B%E3%83%B3%E3%82%B0%E3%81%8C%E3%81%82%E3%82%8B%E5%A0%B4%E6%89%80%E3%81%AF%E6%96%B0%E5%AE%BF%E5%8C%BA%E5%B1%B1%E5%90%B9%E7%94%BA, https://youtu.be/rzKcrJ77wBYhttps://youtu.be/VGksHFs04Rc予告編の陽がさすカットで右側に映っているビルは山野美容専門学校。上部に「Yamano」の文字が見えるのがストリートビューでも確認できる。https://youtu.be/HG3AbK8PSyI, 赤城神社, https://www.google.co.jp/maps/place/%E3%80%92160-0021+%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E6%AD%8C%E8%88%9E%E4%BC%8E%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE%EF%BC%92%EF%BC%97%E2%88%92%EF%BC%91%EF%BC%91/@35.6960391,139.7031962,3a,75y,118.22h,93.92t/data=!3m6!1e1!3m4!1sodTwl_vjHfqNrDtsAHYjxA!2e0!7i16384!8i8192!4m5!3m4!1s0x60188cd85aea9e7f:0x8f04ed18fd9c2f90!8m2!3d35.6958945!4d139.703371?hl=jahttps://www.youtube.com/embed/XxcF-njaid4, 歌舞伎町, 天気の子 (2019), のぞき坂, 代々木会館, 田端駅南口, K&Aプランニングとされる所] lonlat=(139.701804,35.683464)-(139.763286,35.735554) youTube=[rzKcrJ77wBY, VGksHFs04Rc, XxcF-njaid4, HG3AbK8PSyI])
+2019/08/09 21:10:07 INFO: #### 天空橋 2011-07-18.gmap
+2019/08/09 21:10:08 INFO:      MyMap(title=天空橋 2011-07-18 id=1Uk_5f-7_QhmuX-yYEen8SL6pbKfEO6v5 description=[たぶん呑川の支流 正面にある道はたぶん呑川の支流と思われる。川岸のコンクリートに穴をふさいだ形跡が残っている。, 2011/07/18 天空橋, 天空橋 2011-07-18] lonlat=(139.664597,35.546402)-(139.756912,35.634358) youTube=[])
+2019/08/09 21:10:08 INFO: #### 奥様は18歳 (1970).gmap
+2019/08/09 21:10:11 INFO:      MyMap(title=奥様は18歳 (1970) id=16-kj3B7_XNhHdJVeygbkO3FAEa5Gu1ex description=[高木家, 実際のバス停は『桜丘4丁目』, バス停（泉町1丁目）, 奥様は18歳 (1970)] lonlat=(139.442425,35.640697)-(139.444292,35.643103) youTube=[])
+2019/08/09 21:10:11 INFO: #### 妙典から杉並 2009-09-26.gmap
+2019/08/09 21:10:11 INFO:      MyMap(title=妙典から杉並 2009-09-26 id=18LoTYnfFJQO-pOCAMhKY7ScJeNA2c0Nx description=[2009/09/26 妙典から杉並, 妙典から杉並 2009-09-26] lonlat=(139.587646,35.664990)-(139.915710,35.765472) youTube=[])
+2019/08/09 21:10:11 INFO: #### 孤独のグルメ1-03豊島区 池袋の汁なし担々麺.gmap
+2019/08/09 21:10:12 INFO:      MyMap(title=孤独のグルメ1-03豊島区 池袋の汁なし担々麺 id=16gH1CGI7F5V0fgNmiRO6mw5u23c description=[孤独のグルメ1-03豊島区 池袋の汁なし担々麺, 蒙古タンメン中本, 目印 1, 家庭料理　楊] lonlat=(139.707194,35.730066)-(139.710646,35.731734) youTube=[])
+2019/08/09 21:10:12 INFO: #### 宇田川大山西原支流 2011-05-15.gmap
+2019/08/09 21:10:12 INFO:      MyMap(title=宇田川大山西原支流 2011-05-15 id=196tvDEBr2no-3lz6Jy10dnQlTJl-olSl description=[宇田川大山西原支流 2011-05-15, 宇田川大山支流  宇田川大山支流, 宇田川西原支流から東を見る, 宇田川大山支流 左は大山運動場。正面は渋谷区土木部大山資材置き場。, 宇田川, 宇田川大山支流, 宇田川西原支流, 2011/05/15 宇田川大山西原支流, 右は代々幡斎場 宇田川大山支流] lonlat=(139.674591,35.669456)-(139.684021,35.677292) youTube=[])
+2019/08/09 21:10:12 INFO: #### 安堂ロイド 第2話.gmap
+2019/08/09 21:10:13 INFO:      MyMap(title=安堂ロイド 第2話 id=1IoEbDKrP8-aUC2NJksZ6YWr6QH4 description=[安堂ロイド 第2話, 安堂麻陽が沫嶋七瀬に全て話した公園, 安堂麻陽（あんどうあさひ）…柴咲コウ沫嶋七瀬（まつしまななせ）…大島優子] lonlat=(139.672628,35.670515)-(139.672628,35.670515) youTube=[])
+2019/08/09 21:10:13 INFO: #### 宿河原堰堤 2009-11-15.gmap
+2019/08/09 21:10:13 INFO:      MyMap(title=宿河原堰堤 2009-11-15 id=1uItU82AhISEa6YqCrnqaCs2ptfkJWlAt description=[多摩川水害(1974年) 昭和49年(1974)8月31日深夜から9月1日夕方にかけて、台風16号の影響を受け、上流水川を中心にした多量の降雨のため、多摩川の水位が上昇を続けました。この出水により、1日昼頃、二ヶ領宿河原堰左岸下流の取付部護岸が一部破壊されたのを発端に、激しい迂回流が生じたため、高水敷が侵食され、懸命な水防活動もむなしく、午後10時過ぎには本堤防が決壊し、住宅地の洗掘が始まりました。・・・平成11年3月27日, 東宝ビルトの後にできるのは・・・ 大和ハウスが住宅をつくるらしい。, 大六天橋から見た東名高速 右側は旧東宝ビルト。, 宿河原堰堤 2009-11-15, 旧東宝ビルト この年に東宝ビルトのスタジオはすべてなくなった。, 2009/11/15 宿河原堰堤, 多摩川決壊の碑] lonlat=(139.374863,35.620575)-(139.654510,35.727093) youTube=[])
+2019/08/09 21:10:13 INFO: #### 富士通　池田敏夫.gmap
+2019/08/09 21:10:13 INFO:      MyMap(title=富士通　池田敏夫 id=1VBQ6Hiw3vaeUkaOBZVX90i1fL7idaIfP description=[富士通　池田敏夫, とんかつ　あたりや] lonlat=(139.685452,35.606320)-(139.685452,35.606320) youTube=[])
+2019/08/09 21:10:13 INFO: #### 弦巻川-丸池.gmap
+2019/08/09 21:10:14 INFO:      MyMap(title=弦巻川-丸池 id=1SqHLrMfn5iGdWhyq5EAbUTogfvw description=[弦巻川-丸池, &#32218; 1] lonlat=(139.708740,35.711070)-(139.731840,35.728670) youTube=[])
+2019/08/09 21:10:14 INFO: #### 怪奇大作戦　呪いの壺.gmap
+2019/08/09 21:10:14 INFO:      MyMap(title=怪奇大作戦　呪いの壺 id=1Pfro95hzP_c_YmXZG1Lua5YjEAE description=[稚松軒今井, 外観の撮影はここかもしれない。この動画 (http://www.dailymotion.com/video/xpscm6_yyyyy-23-yyyy-yy_shortfilms)の2:32, 古美術商市井商会, 怪奇大作戦　呪いの壺, 京都市東山区新門前通縄手東入スケッチ (http://2nd.geocities.jp/former_policy_sundy/kyoto-sinmonzen.htm)] lonlat=(135.772793,35.006259)-(135.776403,35.006514) youTube=[])
+2019/08/09 21:10:14 INFO: #### 怪奇大作戦　狂気人間.gmap
+2019/08/09 21:10:15 INFO:      MyMap(title=怪奇大作戦　狂気人間 id=1WCuS3WBrpI3jPTaVzC3EoNKBUvQ description=[る・それいゆ, ソレイユ, 怪奇大作戦　狂気人間, 八百留] lonlat=(139.596829,35.639707)-(139.598926,35.640570) youTube=[])
+2019/08/09 21:10:15 INFO: #### 愛宕山　三角点.gmap
+2019/08/09 21:10:15 INFO:      MyMap(title=愛宕山　三角点 id=1hf5bWuen6ayLlg1OB-5Kxf_vw_E description=[35°39'53.20"N 139°44'55.47"E, 愛宕山　三角点] lonlat=(139.748736,35.664795)-(139.748736,35.664795) youTube=[])
+2019/08/09 21:10:15 INFO: #### 戸山公園.gmap
+2019/08/09 21:10:15 INFO:      MyMap(title=戸山公園 id=16GZd_cyOPWnb4CGhM475wKkFzU4 description=[戸山公園, ライン 2] lonlat=(139.705287,35.706878)-(139.709020,35.708172) youTube=[])
+2019/08/09 21:10:15 INFO: #### 新宿から笹塚 2019-09-19.gmap
+2019/08/09 21:10:16 INFO:      MyMap(title=新宿から笹塚 2019-09-19 id=1j9WtdPkA1U28xSOQTAJXpXOfvmpT7q_9 description=[新宿から笹塚 2019-09-19, 2009/09/19 新宿から笹塚] lonlat=(139.665207,35.673744)-(139.696518,35.694782) youTube=[])
+2019/08/09 21:10:16 INFO: #### 新宿まで 2009-09-19.gmap
+2019/08/09 21:10:16 INFO:      MyMap(title=新宿まで 2009-09-19 id=1xrPQ7ffAYsis4drpc_uM_RsIh0amAMNz description=[2009/09/19 新宿まで, 新宿まで 2009-09-19] lonlat=(139.654633,35.679909)-(139.698166,35.696388) youTube=[])
+2019/08/09 21:10:16 INFO: #### 方南通り 2011-03-20.gmap
+2019/08/09 21:10:16 INFO:      MyMap(title=方南通り 2011-03-20 id=15D-auYjXbK10FyspNrRHtho7ASt5VYRu description=[あああ あああああああ, 方南通り 2011-03-20, ううう ううううううううう, おおお おおおおおおおおおお, えええ ええええええええええ, 2011/03/20 方南通り, いいい いいいいいいいい] lonlat=(139.661484,35.682457)-(139.683090,35.689068) youTube=[])
+2019/08/09 21:10:16 INFO: #### 旧江戸川など.gmap
+2019/08/09 21:10:17 INFO:      MyMap(title=旧江戸川など id=1N0V5pt42qqdv45WoOQSjPVHButfV4Acu description=[空堀川, 鶴見川, 旧江戸川, 太田川, 程久保川, 大起沢, 落沢, 峰谷川, 海老取川, 10, 11, 12, 南沢, 13, 14, 旧江戸川など, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9] lonlat=(138.998536,35.544479)-(139.918904,35.801568) youTube=[])
+2019/08/09 21:10:17 INFO: #### 明日は明日の君が生まれる.gmap
+2019/08/09 21:10:17 INFO:      MyMap(title=明日は明日の君が生まれる id=1Sx08TySrz6fHrwHsMZCbRAKBZ7I description=[Making Video (http://youtu.be/YRT7IhP23JA)Music Video (http://youtu.be/kmfMVEsAtjI), 明日は明日の君が生まれる, 3人が歌う, 宮澤佐江が家から出て駆け出す, 3人が撃たれる] lonlat=(139.510671,35.445096)-(139.641439,35.676337) youTube=[YRT7IhP23JA, kmfMVEsAtjI])
+2019/08/09 21:10:17 INFO: #### 映画『深夜食堂』.gmap
+2019/08/09 21:10:18 INFO:      MyMap(title=映画『深夜食堂』 id=1ZWGVsj1btknyyWFqeY1_xE8eGBE description=[自転車で上る坂道, 笹塚川暗渠の近く, 映画『深夜食堂』, 自転車で渡る橋, 本田青果] lonlat=(139.682957,35.691577)-(139.684787,35.692561) youTube=[])
+2019/08/09 21:10:18 INFO: #### 最後の10月.gmap
+2019/08/09 21:10:21 INFO:      MyMap(title=最後の10月 id=1zcnJ35zE5v63Qxq75BYtqUKjsV_GKXKQ description=[江の本, ハモニカ横丁, 赤坂見附, 最後の10月] lonlat=(139.579215,35.664879)-(139.858745,35.703786) youTube=[])
+2019/08/09 21:10:21 INFO: #### 東京バンパイアホテル 第2話 松井玲奈.gmap
+2019/08/09 21:10:21 INFO:      MyMap(title=東京バンパイアホテル 第2話 松井玲奈 id=16gvN-kjPJn_58aY5b0wmjtGGkeI description=[東京バンパイアホテル 第2話 松井玲奈, 怪しい女（松井玲奈）が登場明治大学グラウンド, 東京バンパイアホテル第2話] lonlat=(139.646423,35.672023)-(139.646423,35.672023) youTube=[])
+2019/08/09 21:10:21 INFO: #### 東京都文京区大塚5丁目15.gmap
+2019/08/09 21:10:22 INFO:      MyMap(title=東京都文京区大塚5丁目15 id=1B6b5C_7KrbPSkd2cQlQJi-ChVNA description=[東京都文京区大塚5丁目15, 線 1] lonlat=(139.729917,35.722783)-(139.730253,35.725465) youTube=[])
+2019/08/09 21:10:22 INFO: #### 東京都新宿区若葉３丁目.gmap
+2019/08/09 21:10:22 INFO:      MyMap(title=東京都新宿区若葉３丁目 id=1t9ps2yj-6mXiTilnGdaRbDFIhJU description=[東京都新宿区若葉３丁目, 動画 (http://youtu.be/eETlfPYUrPo)] lonlat=(139.723605,35.681812)-(139.724678,35.682729) youTube=[eETlfPYUrPo])
+2019/08/09 21:10:22 INFO: #### 東京都杉並区和泉2-46 2013-7-6 (1).gmap
+2019/08/09 21:10:23 INFO:      MyMap(title=東京都杉並区和泉2-46 2013-7-6 (1) id=1VbKe9mmG1YmZVxRwswrIx8Y3W4w description=[東京都杉並区和泉2-46 2013-7-6, 目印 1] lonlat=(139.648633,35.677784)-(139.648633,35.677784) youTube=[])
+2019/08/09 21:10:23 INFO: #### 東京都杉並区和泉2-46 2013-7-6.gmap
+2019/08/09 21:10:23 INFO:      MyMap(title=東京都杉並区和泉2-46 2013-7-6 id=1vi490IPYYni1tFPh1JRQN3_MbvE description=[東京都杉並区和泉2-46 2013-7-6, 動画 (http://youtu.be/xMe4NYKUZ2c)] lonlat=(139.648640,35.677720)-(139.649883,35.677904) youTube=[xMe4NYKUZ2c])
+2019/08/09 21:10:23 INFO: #### 東京都杉並区和泉４－４４.gmap
+2019/08/09 21:10:23 INFO:      MyMap(title=東京都杉並区和泉４－４４ id=1pK39WuHfvh8ZkX4wMrV3t9YVorY description=[和泉サンハイツ, 東京都杉並区和泉４丁目４４−４２, 東京都杉並区和泉４丁目４４−１８, 東京都杉並区和泉４－４４, 東京都杉並区和泉４丁目４４−１５, 東京都杉並区和泉４丁目４４−４３, 東京都杉並区和泉４丁目４４−３３, 東京都杉並区和泉４丁目４４−４５, 東京都杉並区和泉４丁目４４−１３] lonlat=(139.654396,35.680418)-(139.656110,35.681615) youTube=[])
+2019/08/09 21:10:23 INFO: #### 東京都港区虎ノ門3丁目18から.gmap
+2019/08/09 21:10:24 INFO:      MyMap(title=東京都港区虎ノ門3丁目18から id=1_hdaFSrXxpyXtOS0T7pQCRhDypg description=[線 1, 東京都港区虎ノ門3丁目18から, 2013-01-03 ビル建設中] lonlat=(139.746300,35.662770)-(139.747716,35.664457) youTube=[])
+2019/08/09 21:10:24 INFO: #### 東京都監察医務院.gmap
+2019/08/09 21:10:24 INFO:      MyMap(title=東京都監察医務院 id=1Sr04tEU_iaqox-HsfHTPZT_oF8I description=[ドラマ「ガリレオ」に出てくる場所。実際にここで外観を撮影している。, 東京都監察医務院, 目印 1] lonlat=(139.732519,35.724710)-(139.732519,35.724710) youTube=[])
+2019/08/09 21:10:24 INFO: #### 東宝ビルト、谷戸川 2011-04-10.gmap
+2019/08/09 21:10:24 INFO:      MyMap(title=東宝ビルト、谷戸川 2011-04-10 id=1TsPFssagd7RCel0b2QLexBTpQ8k3Aawf description=[東宝ビルト、谷戸川 2011-04-10, 東宝ビルト跡  東宝ビルト跡, 谷戸川, 東宝ビルト跡, いちのはし 砧公園から出る谷戸川, 烏山川の支流が京王線と交差する所だと思う, 谷戸川 丸子川の上流, 東宝ビルト跡  東宝ビルト跡 「赤ひげ」1954　東宝株式会社  東宝ビルト跡 「七人の侍」1954 東宝株式会社　「用心棒」1954　東宝株式会社  東宝ビルト跡, 東宝ビルト跡  東宝ビルト跡  東宝ビルト跡 「コモレビ大蔵」があるこの高台には、1950年代から2008年まで映画スタジオがあり、日本映画界を代表する黒澤明監督の「七人の侍」、ｌ「用心棒」、「赤ひげ」などの作品が撮影されました。この土地の記憶を消さずに残していくため、この記念碑を作成しました。　2011年3月30日　東宝株式会社, 2011/04/10 東宝ビルト、谷戸川] lonlat=(139.590759,35.600548)-(139.653214,35.680958) youTube=[])
+2019/08/09 21:10:24 INFO: #### 東扇島 2010-07-04.gmap
+2019/08/09 21:10:25 INFO:      MyMap(title=東扇島 2010-07-04 id=1lo-J6GDMnRBbV5qYz05h9IQxbK-l6jPt description=[多摩川緑地  多摩川緑地, 千鳥橋  千鳥橋  千鳥橋  千鳥橋, 2010/07/04 東扇島, 東扇島 2010-07-04, 川崎港海底トンネル  川崎港海底トンネル  川崎港海底トンネル, 東扇島西公園  東扇島西公園  東扇島西公園  東扇島西公園, 川崎マリエン  川崎マリエン  川崎マリエン  川崎マリエン  川崎マリエン  川崎マリエン  川崎マリエン  川崎マリエン  川崎マリエン  川崎マリエン  川崎マリエン  川崎マリエン, 東扇島西公園  東扇島西公園  東扇島西公園, 川崎マリエン  川崎マリエン  川崎マリエン  川崎マリエン, 川崎マリエン  川崎マリエン 東扇島周辺の地図。  大正１５年、昭和２７年、昭和４０年、平成３年。  東扇島は平成３年の地図で初めて現れる。  川崎マリエン, 夜光交差点, 東扇島ふ頭  東扇島ふ頭  東扇島ふ頭  東扇島ふ頭  東扇島ふ頭] lonlat=(139.600403,35.485771)-(139.776459,35.659496) youTube=[])
+2019/08/09 21:10:25 INFO: #### 松の木支流 2011-06-05.gmap
+2019/08/09 21:10:25 INFO:      MyMap(title=松の木支流 2011-06-05 id=1oc27eXCsUV37kcJabGUH0CQ8Lng description=[松の木支流 2011-06-05, https://www.youtube.com/embed/smxrqcX_XEwクリックして動画を再生, 荒玉水道道路と交差, 善福寺川　武蔵野橋動画 (http://www.youtube.com/watch?v=smxrqcX_XEw), 動画 (http://www.youtube.com/watch?v=smxrqcX_XEw), 動画:http://www.youtube.com/watch?v=smxrqcX_XEw] lonlat=(139.646342,35.688289)-(139.650980,35.693670) youTube=[smxrqcX_XEw])
+2019/08/09 21:10:25 INFO: #### 柿の木坂のスタジオ.gmap
+2019/08/09 21:10:26 INFO:      MyMap(title=柿の木坂のスタジオ id=1Dv1r_UQbl59Sjb1MtbztG1g7kL0 description=[ABP-257 旦那の家族は、変態家族。 芽森しずく, 柿の木坂のスタジオ] lonlat=(139.674313,35.627626)-(139.674313,35.627626) youTube=[])
+2019/08/09 21:10:26 INFO: #### 栞と紙魚子の怪奇事件簿.gmap
+2019/08/09 21:10:27 INFO:      MyMap(title=栞と紙魚子の怪奇事件簿 id=1ON3K4Wc_ZGD6oXyeTmw2ogfexjU description=[栞と紙魚子の怪奇事件簿, キャスト栞：南沢奈央紙魚子：前田敦子（AKB48）9.首山病院と首之山病院（2008年3月1日放映）ベース：「頸山の怪病院」（「栞と紙魚子殺戮詩集」収録）脚本：ブルースカイ、演出：落合崇ゲスト：田端玲実、山崎みちる、松村武、佐藤夏希（AKB48）、中島栄治郎、三枝貴志その他：野呂佳代（元AKB48･現SDN48、ポスターの写真として出演のため台詞無し3秒ほど、扱いとしてはエキストラ以下）, AKB1時59分の野呂佳代と佐藤夏希, 病院の外観, AKB1じ59ふん #4 1/2.wmv (http://youtu.be/jB5AcRw5WAE?t=8m38s)AKB1じ59ふん #4 2/2.wmv (http://youtu.be/t_RYcR9aPFQ), 病院の中] lonlat=(139.609290,35.681226)-(139.685159,35.681479) youTube=[t_RYcR9aPFQ, jB5AcRw5WAE])
+2019/08/09 21:10:27 INFO: #### 桃園川.gmap
+2019/08/09 21:10:27 INFO:      MyMap(title=桃園川 id=1D54PR2doxpJUgVtcFvvjFg3P1yI description=[線 1, 『昭和３０年代の中野・杉並』（三冬社）の地図による。, 桃園川] lonlat=(139.619193,35.703430)-(139.645730,35.708800) youTube=[])
+2019/08/09 21:10:27 INFO: #### 桐生川の橋.gmap
+2019/08/09 21:10:28 INFO:      MyMap(title=桐生川の橋 id=13JI6a7LjjthT58Vf2qyDx2oOw9Q description=[広美橋, 宿之島橋, 八坂橋, 小沼橋, 桐生川の橋, 辨天橋, 両国橋] lonlat=(139.346332,36.390231)-(139.359030,36.408530) youTube=[])
+2019/08/09 21:10:28 INFO: #### 浅間山 2011-08-12.gmap
+2019/08/09 21:10:28 INFO:      MyMap(title=浅間山 2011-08-12 id=116Xj9Cigz2SMnunz6bkaBmHiGkdUpXV5 description=[浅間山 2011-08-12, 2011/08/12 浅間山] lonlat=(139.483292,35.620502)-(139.632462,35.688976) youTube=[])
+2019/08/09 21:10:28 INFO: #### 玉川上水高井戸分水 東八道路 野川 西国分寺 2010-07-10.gmap
+2019/08/09 21:10:31 INFO:      MyMap(title=玉川上水高井戸分水 東八道路 野川 西国分寺 2010-07-10 id=1jD3ND4SloQOUPJ7lPH_242RZFn9Gb5lb description=[2010/07/10 多摩川上水高井戸分水, 玉川上水高井戸分水 東八道路 野川 西国分寺 2010-07-10] lonlat=(139.467133,35.669628)-(139.641754,35.699955) youTube=[])
+2019/08/09 21:10:31 INFO: #### 環状七号線地下調節池 2013-8-12.gmap
+2019/08/09 21:10:31 INFO:      MyMap(title=環状七号線地下調節池 2013-8-12 id=1fS9EVgdRasufuqdWSp9orcOnbOM description=[環状七号線地下調節池 2013-8-12, 撮影場所, 動画を再生 (http://youtu.be/kmRlu1Aoo8Q)] lonlat=(139.656084,35.679949)-(139.656084,35.679949) youTube=[kmRlu1Aoo8Q])
+2019/08/09 21:10:31 INFO: #### 田町 2010-03-28.gmap
+2019/08/09 21:10:32 INFO:      MyMap(title=田町 2010-03-28 id=1gc6m679UV-rV0NmuCJpyWx1vwSwZduNW description=[田町 2010-03-28, 2010/03/28 田町] lonlat=(139.692184,35.649280)-(139.749832,35.689652) youTube=[])
+2019/08/09 21:10:32 INFO: #### 目黒から北品川 2009-12-12.gmap
+2019/08/09 21:10:32 INFO:      MyMap(title=目黒から北品川 2009-12-12 id=1d6mzvRH570MUFkEbwnimV8wMLDkTNeAr description=[2009/12/12 目黒から北品川, 目黒から北品川 2009-12-12] lonlat=(139.654587,35.615669)-(139.749237,35.681259) youTube=[])
+2019/08/09 21:10:32 INFO: #### 目黒川 2010-03-28.gmap
+2019/08/09 21:10:32 INFO:      MyMap(title=目黒川 2010-03-28 id=1I0b4lzDr4RXJRsSHXSPuNoo1jcu5CqwO description=[2010/03/28 目黒川, 目黒川 2010-03-28] lonlat=(139.658279,35.610977)-(139.754791,35.675442) youTube=[])
+2019/08/09 21:10:32 INFO: #### 真夜中のパン屋さん#2.gmap
+2019/08/09 21:10:33 INFO:      MyMap(title=真夜中のパン屋さん#2 id=1bwQxRN-eDDk9RF9DyJhUSZ69kwI description=[南長崎3丁目　第二児童公園, 水野こだまと篠崎希実が走って降りたスロープ, Cafe Suginocoブログ (http://ameblo.jp/cafe-suginoco/entry-11535057552.html), 真夜中のパン屋さん#2, Cafe Suginoco, 目印 4] lonlat=(139.663943,35.652414)-(139.687214,35.727299) youTube=[])
+2019/08/09 21:10:33 INFO: #### 真浦港から加野　兵庫県姫路市家島町.gmap
+2019/08/09 21:10:33 INFO:      MyMap(title=真浦港から加野　兵庫県姫路市家島町 id=1LbaZ1N4mOZp50qllY_u70HMXxY0 description=[井戸がみっつ, 線 1, 真浦港から加野　兵庫県姫路市家島町] lonlat=(134.521336,34.676792)-(134.527228,34.678652) youTube=[])
+2019/08/09 21:10:33 INFO: #### 砧公園 2010-04-10.gmap
+2019/08/09 21:10:33 INFO:      MyMap(title=砧公園 2010-04-10 id=1NGZFmVZZz2bStlmDiMqWPliyQQ6UKKpH description=[2010/04/10 砧公園, 砧公園 2010-04-10] lonlat=(139.597229,35.627274)-(139.651367,35.691219) youTube=[])
+2019/08/09 21:10:33 INFO: #### 神田川 2010-04-03.gmap
+2019/08/09 21:10:34 INFO:      MyMap(title=神田川 2010-04-03 id=1FMAyzlwTRGH0AbDvVzMygfGrnec3LfEn description=[2010/04/03 神田川, 神田川 2010-04-03] lonlat=(139.624832,35.689026)-(139.726318,35.722542) youTube=[])
+2019/08/09 21:10:34 INFO: #### 神田川、秋葉原 2009-10-31.gmap
+2019/08/09 21:10:34 INFO:      MyMap(title=神田川、秋葉原 2009-10-31 id=1q4V1fPb5PjSXjnMAg6QAHMHaDLadW_8g description=[2009/10/31 神田川、秋葉原, 神田川、秋葉原 2009-10-31] lonlat=(139.657745,35.679954)-(139.776230,35.716915) youTube=[])
+2019/08/09 21:10:34 INFO: #### 神田川の桜 2013-03-29.gmap
+2019/08/09 21:10:35 INFO:      MyMap(title=神田川の桜 2013-03-29 id=1ga9RU1iHfrIJ7qBUa4D9JvzwxGE description=[Path, Video, 神田川の桜 2013-03-29] lonlat=(139.590542,35.669548)-(139.650629,35.691644) youTube=[])
+2019/08/09 21:10:35 INFO: #### 神田川南台支流 2010-10-16.gmap
+2019/08/09 21:10:35 INFO:      MyMap(title=神田川南台支流 2010-10-16 id=1rbqHDbB1GP0bycns2Jl1F59ndbFkzBub description=[駐車場脇, 神田川・南台支流起点, 方南通り, 折れ曲がるところ, 方南通りから南を見る  中野区立栄町公園  中野区立栄町公園, 神田川南台支流 2010-10-16, 神田川出口, 2010/10/16 神田川南台支流, 神田川] lonlat=(139.670883,35.683563)-(139.672073,35.691482) youTube=[])
+2019/08/09 21:10:35 INFO: #### 神田川方南支流 2011-03-27.gmap
+2019/08/09 21:10:36 INFO:      MyMap(title=神田川方南支流 2011-03-27 id=177Z3eE-7ov5cn5xuyq6JeEM0I3ToLBZD description=[神田川方南支流 反対側からも入れない。  神田川方南支流 道を隔ててさらに川跡は続く。, 神田川方南支流  神田川方南支流 道の反対側にも川が続いていたと思われるが、駐車場になっている。  神田川方南支流 左奥の家の手前を川が流れていたと思われる。, 神田川の上に都庁, 神田川方南支流 左は熱帯魚の店。右は方南区民集会所。  神田川方南支流, 神田川用水路, 神田川用水路 用水路がそのまま残っている。金属の板でふたをしているが水路はそのまま。  神田川用水路 かつては用水路だったと思われる。今はパイプが下水になっているらしい。暗渠になっていないのはめずらしい。  神田川用水路  神田川用水路, 神田川方南支流 交差点の左右を用水路が流れていたと思われる。, 神田川方南支流 左は大黒湯。旧環七を西から見る。  神田川方南支流 左右は旧環七通り。, 神田川用水路 道の奥は行き止まりだが、左のほう（北方）に水路跡が見える。, 2011/03/27 神田川方南支流, 神田川方南支流 「神田川方南支流」は勝手につけた名前。環七沿いにあるドンキホーテ裏あたりを流れていた川。Google Earchで見ると旧環七、環七を横切ってドンキホーテの裏を回る谷が確認できる。  神田川方南支流 道路は環七。熱帯魚の看板の店と方南区民集会所の間に川があったと思われる。, 神田川 mini STOPとサミットの間を神田川が流れている。奥に左右に走る道は方南通り。, 神田川方南支流 奥に川の跡がある。住所表示は方南１丁目３１。  神田川方南支流 家の間に川跡があるが入れない。  神田川方南支流 途中にある井戸。, 神田川用水路 正面の門の向こう側に用水路が続いていたと思われる。道もないのに右側の家の壁がきれいに並んでいる。, 神田川方南支流 2011-03-27, 中野新橋駅改札 ００７は二度死ぬで若林映子が通り抜けた改札。, 神田川 右側は丸ノ内線の車庫。, 中野新橋駅, 熊野神社前] lonlat=(139.657425,35.675957)-(139.693283,35.694157) youTube=[])
+2019/08/09 21:10:36 INFO: #### 神田川方南支流２ 2011-04-02.gmap
+2019/08/09 21:10:36 INFO:      MyMap(title=神田川方南支流２ 2011-04-02 id=19maBYZJXTJiIQ0F4pmbNjGd4UJDpEgHw description=[神田川方南支流２ 2011-04-02, 神田川方南支流  神田川方南支流, 神田川方南支流, 2011/04/02 神田川方南支流２] lonlat=(139.661560,35.675449)-(139.664886,35.680462) youTube=[])
+2019/08/09 21:10:36 INFO: #### 神田川蛇窪支流 2011-08-11.gmap
+2019/08/09 21:10:36 INFO:      MyMap(title=神田川蛇窪支流 2011-08-11 id=14xgSyjmq6gZqnPCmQj1JTueVqLZJKtaH description=[神田川蛇窪支流 2011-08-11, 2011/08/11 神田川蛇窪支流] lonlat=(139.664536,35.691025)-(139.666824,35.695538) youTube=[])
+2019/08/09 21:10:36 INFO: #### 神田川蛇窪支流.gmap
+2019/08/09 21:10:37 INFO:      MyMap(title=神田川蛇窪支流 id=1Iz6yW3wShtGeT-cE_oNla9hykMA description=[神田川蛇窪支流, 動画 (http://www.youtube.com/watch?v=Rf8bgRB8VSs)] lonlat=(139.665174,35.690890)-(139.666834,35.695068) youTube=[Rf8bgRB8VSs])
+2019/08/09 21:10:37 INFO: #### 神田川高円寺支流 2010-10-16.gmap
+2019/08/09 21:10:37 INFO:      MyMap(title=神田川高円寺支流 2010-10-16 id=1jmX8Tv9k60z2ESEmddXGz41RNgdZad9y description=[たくさんのマンホール, 環七の東側の水路跡, 高南中学 校庭の真ん中あたりを流れていたと思われる。, 神田川高円寺支流 2010-10-16, 環七 川と交差していたあたりが低くなっている。, 神田川・高円寺支流の出口近く 「神田川・高円寺支流」は勝手につけた名前。真盛寺あたりから中野富士見町のあたりまで流れていたと思われる。, 真盛寺の北側の道 環七の歩道から北西。, 2010/10/16 神田川高円寺支流, 神田川, 環七, 高南中学] lonlat=(139.651657,35.690281)-(139.666840,35.696472) youTube=[])
+2019/08/09 21:10:37 INFO: #### 私立恵比寿中学　『頑張ってる途中』.gmap
+2019/08/09 21:10:38 INFO:      MyMap(title=私立恵比寿中学　『頑張ってる途中』 id=1vQeVDasWk5JPo04vOGTQ3Frii0w description=[私立恵比寿中学　『頑張ってる途中』, みどりちょう ゆうやけ通り] lonlat=(139.794577,35.746345)-(139.794577,35.746345) youTube=[])
+2019/08/09 21:10:38 INFO: #### 空飛ぶ広報室#7.gmap
+2019/08/09 21:10:41 INFO:      MyMap(title=空飛ぶ広報室#7 id=15wFIEqRYxAU9yXeylfKYon7Watk description=[空飛ぶ広報室#7, 夕日をながめる空井, 手前みそ, 夕日] lonlat=(139.765513,35.699895)-(139.774010,35.706504) youTube=[])
+2019/08/09 21:10:41 INFO: #### 立花凛太郎とかすみが話しながら歩いていた公園(8)_.gmap
+2019/08/09 21:10:41 INFO:      MyMap(title=立花凛太郎とかすみが話しながら歩いていた公園(8)_ id=1SlEQ1MlqzVuajLocqlDVbXX8J7E description=[目印 10, ここでもない, 目印 11, 堀合遊歩道ではない, これも違う, このあたりに公園があるがこれも違う, ここじゃない, 立花凛太郎とかすみが話しながら歩いていた公園(8), ここは武蔵野市ではない。, 目印 7, 目印 8, ここではない, ×, 注意この水路は観賞用です。水路の中に入らないでください。武蔵野市, 武蔵川公園, 目印 14, 目印 13] lonlat=(139.532338,35.703067)-(139.568199,35.719131) youTube=[])
+2019/08/09 21:10:41 INFO: #### 笄川 (こうがい川) 2011-07-09.gmap
+2019/08/09 21:10:42 INFO:      MyMap(title=笄川 (こうがい川) 2011-07-09 id=1sv5RjSZI7KE1v9pgAdDWLi-_n4WlMLJc description=[天現寺橋, 涼しそうな猫, 2011/07/09 笄（こうがい）川, みんなが写真を撮るところ, 広尾学園　オマーンスルタン国大使館, 渋谷川  渋谷川, Oriental南青山, 平田暁夫　帽子屋, 南青山２－２６ 青山通りから入った梅窓院のところ。, 外苑西通りと交差するところ。, 笄川 (こうがい川) 2011-07-09, 外苑西通りの反対側] lonlat=(139.716522,35.647304)-(139.723282,35.671841) youTube=[])
+2019/08/09 21:10:42 INFO: #### 笹塚 _-4_.gmap
+2019/08/09 21:10:42 INFO:      MyMap(title=笹塚 _-4_ id=1wZxByAMJjAGRrnWht8zo8U5Atu4 description=[線 1, 笹塚 *-4*, 1-4*, 線 2, 線 3, 2-4*, 線 4, 3-4*] lonlat=(139.655972,35.664514)-(139.678520,35.682869) youTube=[])
+2019/08/09 21:10:42 INFO: #### 笹塚川支流（旗洗池周辺）.gmap
+2019/08/09 21:10:43 INFO:      MyMap(title=笹塚川支流（旗洗池周辺） id=1SNzVAB1BK7yc2nOjp1VZBob_FTc description=[線 1, 線 3, 笹塚川支流（旗洗池周辺）, 旗洗池からの支流, 旗洗池] lonlat=(139.677960,35.677788)-(139.684518,35.682810) youTube=[])
+2019/08/09 21:10:43 INFO: #### 笹塚支流 出羽様の池へ.gmap
+2019/08/09 21:10:43 INFO:      MyMap(title=笹塚支流 出羽様の池へ id=1Wk0eQUL1KYDH_lcVN1ArOdtmYOk description=[開始, 終了, 笹塚支流 出羽様の池へ] lonlat=(139.681061,35.680993)-(139.684481,35.682793) youTube=[])
+2019/08/09 21:10:43 INFO: #### 羅漢寺川 2011-05-08.gmap
+2019/08/09 21:10:43 INFO:      MyMap(title=羅漢寺川 2011-05-08 id=1-_aHyBx2Vh8cr5-KuZEWGBH56p_Hvj3J description=[目黒通り, 羅漢寺川, 2011/05/08 羅漢寺川, 蛇崩川が目黒川に出るところ, 井の頭通り, 羅漢寺川プロムナード, 瀧泉寺, 羅漢寺川プロムナード 看板は「林試の森公園」, 羅漢寺川プロムナード  羅漢寺川プロムナード案内図, 蛇崩川, 羅漢寺川 2011-05-08, 羅漢寺川が目黒川に出るところ] lonlat=(139.659943,35.622387)-(139.713898,35.670040) youTube=[])
+2019/08/09 21:10:43 INFO: #### 羽田空港 2009-10-03.gmap
+2019/08/09 21:10:44 INFO:      MyMap(title=羽田空港 2009-10-03 id=1UnHOUNCoY8GgQB69pzFiF45a23331caM description=[羽田空港 2009-10-03, 2009/10/03 羽田空港] lonlat=(139.654648,35.535706)-(139.797256,35.681912) youTube=[])
+2019/08/09 21:10:44 INFO: #### 聖跡桜ヶ丘 大国魂神社 烏山川 2010-08-01.gmap
+2019/08/09 21:10:44 INFO:      MyMap(title=聖跡桜ヶ丘 大国魂神社 烏山川 2010-08-01 id=1SmtzsfKhEkn1SqTWZ-AEgy61A3c3M_6i description=[烏山川 水は流れていない。, 大国魂神社 さざれ石は、石灰岩が雨水に溶解し膠結物質となり小粒石を凝結した石灰質角礫岩で、長年を経て小粒石が巌に固結し苔むす様は、一家、町、国と集結し幾千代まで栄え行く人間の強調発展の精神に比喩され、算賀を祝し長寿を祈る嘉句として国家や古今和歌集に詠まれている。, 府中市美術館 美術館通り, 2010/08/01 聖蹟桜ヶ丘, 屋外エレベータのある家, 烏山川と甲州街道が交差する 道路上に斜めに走る線がかつての川の流れと思われる。  烏山川と甲州街道が交差する 橋の欄干が左側に残っている。この左は団地の中に続いている。  団地の間を流れる烏山川, 桜ヶ丘 玄関に至る階段。現在家はなくなっている。, いろは坂の途中の階段, 多摩川河川敷から関戸橋を見る, いろは坂桜公園からの景色  いろは坂桜公園からの景色, 聖蹟桜ヶ丘駅, 大国魂神社, 桜ヶ丘から南の方を見る, いろは坂途中の階段, 桜ヶ丘からの景色, 大国魂神社 さざれ石, 烏山川, 烏山川 欄干が残っている。, 桜ヶ丘  桜ヶ丘の階段, 金比羅宮の裏で横になって上を見る, 桜ヶ丘, 桜ヶ丘から南方向を見る, 聖跡桜ヶ丘 大国魂神社 烏山川 2010-08-01, 烏山川 玉川上水の近く, 府中市美術館   府中市美術館, 烏山川 人も入れないように柵がある。, 水はあるが流れていない。, 天守台 関戸城跡。桜ヶ丘１丁目の金比羅宮（琴平社）付近を「天守台」などといい、一帯の山を「城山」ともいう。] lonlat=(139.443283,35.640758)-(139.640610,35.689140) youTube=[])
+2019/08/09 21:10:44 INFO: #### 自転車に乗って京浜島に行こう 2011-09-17.gmap
+2019/08/09 21:10:44 INFO:      MyMap(title=自転車に乗って京浜島に行こう 2011-09-17 id=1jm04xNCHm47kVg3sRUuqNXNItqQ description=[動画 (http://youtu.be/76ge-lcCgm8), 自転車に乗って京浜島に行こう 2011-09-17] lonlat=(139.743680,35.561186)-(139.765154,35.575529) youTube=[76ge-lcCgm8])
+2019/08/09 21:10:44 INFO: #### 若洲 2010-07-17.gmap
+2019/08/09 21:10:45 INFO:      MyMap(title=若洲 2010-07-17 id=1m2aKeGefJ_nDwnN6DM-WbAMOJvpoWjp7 description=[2010/07/17 若洲, 若洲 2010-07-17, 若洲 若洲ヨット訓練所。  若洲 若洲橋から東南方向を見る。  展望台と若洲ヨット訓練所。] lonlat=(139.659180,35.612759)-(139.840027,35.693954) youTube=[])
+2019/08/09 21:10:45 INFO: #### 若洲、葛西臨海公園 2009-09-22.gmap
+2019/08/09 21:10:45 INFO:      MyMap(title=若洲、葛西臨海公園 2009-09-22 id=1YCz4_1hbEH14HSyuIE0h_naSGFVBmJpR description=[若洲、葛西臨海公園 2009-09-22, 2009/09/22 若洲、葛西臨海公園] lonlat=(139.654129,35.612621)-(139.871048,35.691158) youTube=[])
+2019/08/09 21:10:45 INFO: #### 葛西さん送別会 日本橋 2013-06-14_.gmap
+2019/08/09 21:10:46 INFO:      MyMap(title=葛西さん送別会 日本橋 2013-06-14_ id=1iH0PW10UoY8AN9cBev_6JxwJbvU description=[葛西さん送別会 日本橋 2013-06-14, https://youtu.be/F_Cy3GdZ8KU, 葛西さん送別会] lonlat=(139.773333,35.682154)-(139.773527,35.682433) youTube=[F_Cy3GdZ8KU])
+2019/08/09 21:10:46 INFO: #### 蛇崩川 2010-07-25.gmap
+2019/08/09 21:10:46 INFO:      MyMap(title=蛇崩川 2010-07-25 id=1W99tDe_vRSwWK2OknE2UI2HCMOGQxnXt description=[上馬４丁目４０, 水道橋, プラネタリウム, Toyota 200GT  Toyota 200GT, 山手通, 蛇崩下橋, やまももの木, 目黒川, 蛇崩橋, ごうのはし, 「蛇崩川」について このプロムナードのせせらぎの下には馬事公苑の方から流れる自然の川があります。かつては、小砂利交じりの赤土が崩れた中を、蛇のように曲がりくねって流れていたため、「蛇崩川」と呼ばれていました。, 環七駒留陸橋  駒留橋, 蛇崩川 2010-07-25, 観音橋自転車置場, 2010/07/25 蛇崩川, 駒繁神社, 玉川通, 向天神橋（むかいてんじんばし）, 東急東横線, 駒繁神社  駒繁神社  駒繁神社] lonlat=(139.632614,35.636520)-(139.699783,35.648788) youTube=[])
+2019/08/09 21:10:46 INFO: #### 蛇崩川支流 2011-02-27.gmap
+2019/08/09 21:10:46 INFO:      MyMap(title=蛇崩川支流 2011-02-27 id=1wjuv6ujjxYpD1lB9F17RVagAeYOc6KG9 description=[2010/10/27 蛇崩川支流, 蛇崩川支流 2011-02-27, 蛇崩川支流 人が入れない場所。柵の横から撮影した。, 蛇崩川 教会のあるところ。蛇崩川支流の出口。左後方に支流がある。  蛇崩川支流, 蛇崩川支流, 蛇崩川支流 五本木小学校の近く。たぶん私道。, 蛇崩川支流緑道, 蛇崩川支流 祐天寺駅の近く。人も入れない。] lonlat=(139.688705,35.634312)-(139.692337,35.642101) youTube=[])
+2019/08/09 21:10:46 INFO: #### 蟹川 2010-03-20.gmap
+2019/08/09 21:10:47 INFO:      MyMap(title=蟹川 2010-03-20 id=1w5jjR8Qh1PNSp8WAmtItSAyoVp-uPz9x description=[蟹川 2010-03-20, 2010/03/20 蟹川] lonlat=(139.654648,35.678833)-(139.731720,35.714699) youTube=[])
+2019/08/09 21:10:47 INFO: #### 蟹川支流 文化センター付近 2013-0221.gmap
+2019/08/09 21:10:47 INFO:      MyMap(title=蟹川支流 文化センター付近 2013-0221 id=1R9aGjTGuAys3vfXf2cKM2HqqWYQ description=[蟹川支流 文化センター付近 2013-0221, Well, Road with a well (1), https://www.youtube.com/embed/blGywZHh9gM] lonlat=(139.708890,35.694221)-(139.709360,35.695370) youTube=[blGywZHh9gM])
+2019/08/09 21:10:47 INFO: #### 西新宿 藤圭子 2013-08-22.gmap
+2019/08/09 21:10:48 INFO:      MyMap(title=西新宿 藤圭子 2013-08-22 id=1lUsyadM01uAZpnpPqZLEr3nwvok description=[西新宿 藤圭子 2013-08-22, 目印 1] lonlat=(139.688078,35.694450)-(139.688078,35.694450) youTube=[])
+2019/08/09 21:10:48 INFO: #### 西新宿6丁目第5ブロック東地区　2013-05-18 14_05 (2).gmap
+2019/08/09 21:10:51 INFO:      MyMap(title=西新宿6丁目第5ブロック東地区　2013-05-18 14_05 (2) id=1ZcRW0tP2R2S_0i9fzKxIge_c93s description=[西新宿6丁目第5ブロック東地区　2013-05-18 14_05 (2), 動画 (http://youtu.be/QwqshuX3L30)] lonlat=(139.687815,35.692409)-(139.688316,35.693297) youTube=[QwqshuX3L30])
+2019/08/09 21:10:51 INFO: #### 西葛西からタクシー 2009-09-26.gmap
+2019/08/09 21:10:51 INFO:      MyMap(title=西葛西からタクシー 2009-09-26 id=1ZVClUPAsQqytgJSqwvjGVjieTn3zyVqy description=[西葛西からタクシー 2009-09-26, 2009/09/26 西葛西からタクシー] lonlat=(139.655685,35.665836)-(139.841614,35.703663) youTube=[])
+2019/08/09 21:10:51 INFO: #### 調布飛行場 2009-10-18.gmap
+2019/08/09 21:10:52 INFO:      MyMap(title=調布飛行場 2009-10-18 id=1WU1_Gnb6j4yfnEb1GTk3aFY_eZoaxwMC description=[調布飛行場 2009-10-18, 2009/10/18 調布飛行場, 調布飛行場 飛行場祭りの日で飛行場内に入る。] lonlat=(139.523193,35.668076)-(139.650269,35.704994) youTube=[])
+2019/08/09 21:10:52 INFO: #### 谷戸前川 2011-02-27.gmap
+2019/08/09 21:10:53 INFO:      MyMap(title=谷戸前川 2011-02-27 id=1qbCacEDzAbASjjJnEmKx4ZQtRiyv01SR description=[谷戸前川 目黒川出口, 谷戸前川 2011-02-27, 北沢川支流 下北沢の近く, 大塚山公園, 北沢川支流, 谷戸前川, 2010/10/27 谷戸前川, モヤモヤさまぁ～ず２ 祐天寺, 大橋ジャンクション近く, 北沢川支流と井の頭線が交差, 北沢川支流と井の頭線が交差 京王井の頭線の新代田と下北沢の間にある踏切  北沢川支流と井の頭線が交差, 大塚山　花のつり橋この崖の上がモヤさま祐天寺の回の大塚山公園] lonlat=(139.661301,35.633026)-(139.710785,35.667271) youTube=[])
+2019/08/09 21:10:53 INFO: #### 赤坂川.gmap
+2019/08/09 21:10:53 INFO:      MyMap(title=赤坂川 id=1AP45kpOnzGi7ViH62iJ77RS1F_Y description=[新助坂, 若葉公園, 赤坂川, 鮫川橋あたり(2012/06/17), 線 1, 目印 4] lonlat=(139.719840,35.679344)-(139.725468,35.687923) youTube=[])
+2019/08/09 21:10:53 INFO: #### 迎賓館、東御所 2009-11-28.gmap
+2019/08/09 21:10:53 INFO:      MyMap(title=迎賓館、東御所 2009-11-28 id=1_wg06P8CSmVBOqXAmc8yI_lFTl1ZOSBz description=[迎賓館、東御所 2009-11-28, 2009/11/28 迎賓館、東御所] lonlat=(139.654694,35.661140)-(139.786636,35.696068) youTube=[])
+2019/08/09 21:10:53 INFO: #### 遊星より愛をこめて.gmap
+2019/08/09 21:10:54 INFO:      MyMap(title=遊星より愛をこめて id=1n0zDSITa_2Y3DNtA6HGfu5uFUmE description=[遊星より愛をこめて, http://www.ultraloc.org/locations/hyakumado/index.htmlhttp://www.setagaya-old.com/tamagawa-area_okamoto2.html, 百目] lonlat=(139.614993,35.625092)-(139.614993,35.625092) youTube=[])
+2019/08/09 21:10:54 INFO: #### 都庁前.gmap
+2019/08/09 21:10:54 INFO:      MyMap(title=都庁前 id=1pYQL1TK8CrKRN-YpcQVuUZBHrP4 description=[都庁前, 動画 (http://youtu.be/xhyT5PWqhIQ)] lonlat=(139.691591,35.687252)-(139.692696,35.692001) youTube=[xhyT5PWqhIQ])
+2019/08/09 21:10:54 INFO: #### 野川 2013-7-6.gmap
+2019/08/09 21:10:54 INFO:      MyMap(title=野川 2013-7-6 id=1PEUCHrd_atKUf5DHq019cAQ1wGs description=[動画 (http://youtu.be/uWQJxvE9J4s), 野川 2013-7-6] lonlat=(139.523404,35.681560)-(139.529323,35.688289) youTube=[uWQJxvE9J4s])
+2019/08/09 21:10:54 INFO: #### 野川公園 2011-04-16.gmap
+2019/08/09 21:10:55 INFO:      MyMap(title=野川公園 2011-04-16 id=1TZUKizfcVynH_1BNFHC60L_w42OiwYRf description=[野川公園 2011-04-16, 2011/04/16 野川公園, アウトドアプログラミング, 平成23年度　調布航空宇宙センター　一般公開　開催遠位のお知らせ JAXA調布航空宇宙センターでは、4月17日に開催を予定しておりました研究施設の一般公開を、電力状況や来場者の安全確保の観点から開催を見送ることとしました。] lonlat=(139.523026,35.671066)-(139.625366,35.685703) youTube=[])
+2019/08/09 21:10:55 INFO: #### 防衛大学.gmap
+2019/08/09 21:10:55 INFO:      MyMap(title=防衛大学 id=1f3yoCcdfNWY_Fol-4AvA25Ilf2c description=[線 1, 防衛大学, 目印 1] lonlat=(139.707780,35.255167)-(139.721917,35.260528) youTube=[])
+2019/08/09 21:10:55 INFO: #### 阿佐ヶ谷川近辺(2012_05_15).gmap
+2019/08/09 21:10:56 INFO:      MyMap(title=阿佐ヶ谷川近辺(2012_05_15) id=1FWH79EzmEWQ96vwuM0T1Nge0PdA description=[線 1, 杉並区役所から北へ行って阿佐ヶ谷川跡をさかのぼり、桃園川をさかのぼり、途中で阿佐ヶ谷にもどる。3.27Km, 阿佐ヶ谷川近辺(2012/05/15)] lonlat=(139.630850,35.699425)-(139.641123,35.709984) youTube=[])
+2019/08/09 21:10:56 INFO: #### 隅田川の桜 2013-03-26.gmap
+2019/08/09 21:10:56 INFO:      MyMap(title=隅田川の桜 2013-03-26 id=1G4o6W06SLJlFbJgcqvevZ7rXDTQ description=[Path, Video (http://youtu.be/NSMT5tfS8Mk), 隅田川の桜 2013-03-26] lonlat=(139.784750,35.665333)-(139.787765,35.671443) youTube=[NSMT5tfS8Mk])
+2019/08/09 21:10:56 INFO: #### 青物横丁商店街　東京都品川区.gmap
+2019/08/09 21:10:56 INFO:      MyMap(title=青物横丁商店街　東京都品川区 id=1netDChZiGqrNnjEaiWHzpws0Wcg description=[Cleaningの看板が裏返し, 2013/1/1時点ではこの建物はない。, 線 1, 青物横丁商店街　東京都品川区, 工事中, 元旦に営業] lonlat=(139.743894,35.606730)-(139.744350,35.610568) youTube=[])
+2019/08/09 21:10:56 INFO: #### 音羽川.gmap
+2019/08/09 21:10:57 INFO:      MyMap(title=音羽川 id=1W7GVTgHhHnmxIgvC0fQC1rTeoKQ description=[音羽川経路, 動画 (http://youtu.be/jNFmKlWh6EM), 音羽川] lonlat=(139.728539,35.711047)-(139.732186,35.719862) youTube=[jNFmKlWh6EM])
+2019/08/09 21:10:57 INFO: #### 駒場野公園 2010-05-22.gmap
+2019/08/09 21:10:57 INFO:      MyMap(title=駒場野公園 2010-05-22 id=1-3aspJI5KrYjPY8VUf_N62Swn17Ge1pd description=[2010/05/22 駒場野公園, 駒場野公園 2010-05-22] lonlat=(139.661255,35.659195)-(139.681091,35.669273) youTube=[])
+2019/08/09 21:10:57 INFO: #### 駒込銀座商店街.gmap
+2019/08/09 21:10:57 INFO:      MyMap(title=駒込銀座商店街 id=1ClBtUXrcRB5UuPVxOV4rlnkDL-o description=[線 1, 駒込銀座商店街] lonlat=(139.748433,35.737491)-(139.749135,35.738814) youTube=[])
+2019/08/09 21:10:57 INFO: #### 鮫洲商店街　東京都品川区.gmap
+2019/08/09 21:10:58 INFO:      MyMap(title=鮫洲商店街　東京都品川区 id=1MgOBN3Gr4IDtnx1gXf3QXC3oMko description=[鮫洲商店街　東京都品川区, 線 4] lonlat=(139.741226,35.600858)-(139.744002,35.606763) youTube=[])
+2019/08/09 21:10:58 INFO: #### 鳩人間.gmap
+2019/08/09 21:11:01 INFO:      MyMap(title=鳩人間 id=1yWBj6xnxCm812toM_yxro0jXtUM description=[鳩人間, ストリートビューで鳩人間が写っているところ。] lonlat=(139.557642,35.704077)-(139.557642,35.704077) youTube=[])

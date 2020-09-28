@@ -1,0 +1,61 @@
+html {
+	height: 100%;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	min-height: 100%;
+	height: 100%;
+}
+
+.panel {
+	/* border-style: solid; */
+	border: none;
+	background-color: #008080;
+}
+
+.map {
+	border: none;
+	width: 100%;
+	height: 100%;
+	padding: 0;
+	margin: 0;
+}
+
+.site-panel {
+	display: flex;
+	flex-direction: column;
+	height: 100%;
+}
+
+.header-panel {
+	/*
+	height: 50px
+	background-color: #00ffff;
+	*/
+}
+
+.content-panel {
+	flex: 1;
+	display: flex;
+}
+
+.left-panel {
+	height: 100%;
+	width: 20%;
+	overflow: auto;
+}
+
+.right-panel {
+	flex: 1;
+}
+
+.footer-panel {
+	clear: both;
+}
+
+.year-list {
+	list-style-type: none;
+	padding-left: 1em;
+}

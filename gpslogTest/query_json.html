@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="ja">
+<!-- 
+検索結果をjsonで返すPHPのプログラムを呼び出して検索結果を表示するページです。
+ -->
+    <head>
+        <meta charset="UTF-8">
+        <title>検索</title>
+<script type="text/javascript">
+function createXMLHttpRequest() {
+    if (window.XMLHttpRequest) return new XMLHttpRequest();
+    if (window.ActiveXObject) {
+        try { return new ActiveXObject("Msxml2.XMLHTTP.6.0") } catch (e) { }
+        try { return new ActiveXObject("Msxml2.XMLHTTP.3.0") } catch (e) { }
+        try { return new ActiveXObject("Microsoft.XMLHTTP") } catch (e) { }
+    }
+    return false;
+}
+
+function onKeyPress() {
+    if (window.event.keyCode == 13)
+        query();
+}
+
+function query() {
+    //var xmlhttp = createXMLHttpRequest(); //旧バージョンのIEなどに対応する場合
+    var xmlhttp = new XMLHttpRequest();
+    xmlhttp.onreadystatechange = function () {
+        if (xmlhttp.readyState == 4) {
+            if (xmlhttp.status == 200) {
+                let data = JSON.parse(xmlhttp.responseText);
+                document.getElementById("message").innerText = data.length + "件みつかりました。";
+                let html = "<table border='1'><tr><th>doc id</th><th>name</th></tr>";
+                for (let e of data)
+                    html += "<tr><td>" + e.doc_id + "</td><td>" + e.name + "</td></tr>";
+                html += "</table>";
+                document.getElementById("output").innerHTML = html;
+            }
+        }
+    }
+    const queryText = document.getElementById("queryText").value;
+    const uri = "json.php?k=" + encodeURIComponent(queryText);
+//  console.log(uri);
+    xmlhttp.open("GET", uri);
+    xmlhttp.send();
+}
+</script>
+    </head>
+    <body>
+        <input id="queryText" type="text" onkeypress="onKeyPress()" />
+        <input id="queryButton" type="button" value="検索" onclick="query();" />
+        <hr />
+        <div>検索結果</div>
+        <p id="message" style="color:red"></p>
+        <span id="output"></span>
+    </body>
+</html>

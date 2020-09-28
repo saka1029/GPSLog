@@ -112,7 +112,7 @@ public class Main {
 	public Main inputEncoding(String inputEncoding) { this.inputEncoding = inputEncoding; return this; }
 	public Main outputEncoding(String outputEncoding) { this.outputEncoding = outputEncoding; return this; }
 	public Main baseUrl(String baseUrl) { this.baseUrl = baseUrl; return this; }
-	public Main inputDir(File inputDIr) { this.inputDir = inputDir; return this; }
+	public Main inputDir(File inputDir) { this.inputDir = inputDir; return this; }
 	public Main outputDir(File outputDir) { this.outputDir = outputDir; return this; }
 	public Main useGoogleMapsAPI(boolean useGoogleMapsAPI) { this.useGoogleMpasAPI = useGoogleMapsAPI; return this; }
 

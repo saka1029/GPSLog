@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<link rel="icon" type="image/png" href="favicon.png">
+<title>GPS log 2</title>
+<link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+<body>
+	<div id="site-panel" class="site-panel panel">
+		<div class="header-panel panel">
+			<p>GPS Log</p>
+		</div>
+		<div class="content-panel panel">
+			<div class="left-panel panel">
+				<div class="left-top-panel panel">
+				    <ul>
+				    <li>1911</li>
+				    <li>1912</li>
+				    <li>1913</li>
+				    </ul>
+				</div>
+				<div class="left-bottom-panel panel">
+					<ul class="year-list">
+						<li><details>
+								<summary>1911年</summary>
+								<ul>
+									<li><a
+										onclick="map.src='http://tokyoheight.html.xdomain.jp/?k=http://gpslog.html.xdomain.jp/2009/0919a/Holux_M-241_Start_20090919-115534_Finish_20090919-122501.kml'"
+										href="#"> 2009/09/19 新宿まで試しに走ってみた</a></li>
+									<li>first</li>
+									<li>second</li>
+									<li>third</li>
+									<li>forth</li>
+									<li>fifth</li>
+								</ul>
+							</details></li>
+						<li><details>
+								<summary>1912年</summary>
+							</details></li>
+					</ul>
+				</div>
+			</div>
+			<div class="right-panel panel">
+				<iframe id="map" class="map"
+					src="http://tokyoheight.html.xdomain.jp"></iframe>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
